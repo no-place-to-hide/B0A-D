@@ -1,27 +1,29 @@
 <template>
-    <div class="container">
-        <div
-            class="row"
-            v-for="(msg, idx) in messageList"
-            :key="idx"
-            :style="{ color: msg.color }"
-        >
-            <div class="col">
-                {{ msg.message }}
+    <client-only>
+        <div class="container">
+            <div
+                class="row"
+                v-for="(msg, idx) in messageList"
+                :key="idx"
+                :style="{ color: msg.color }"
+            >
+                <div class="col">
+                    {{ msg.message }}
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <textarea
+                        :value="text"
+                        @input="text = $event.target.value"
+                        @submit.prevent="save"
+                        style="width: 100%"
+                    />
+                    <button @click="save">Send</button>
+                </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col">
-                <textarea
-                    :value="text"
-                    @input="text = $event.target.value"
-                    @submit.prevent="save"
-                    style="width: 100%"
-                />
-                <button @click="save">Send</button>
-            </div>
-        </div>
-    </div>
+    </client-only>
 </template>
 
 <script lang="ts">
