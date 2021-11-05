@@ -33,6 +33,7 @@ export default {
     buildModules: [
         // https://go.nuxtjs.dev/typescript
         '@nuxt/typescript-build',
+        '@nuxtjs/dotenv'
     ],
 
     // Modules: https://go.nuxtjs.dev/config-modules
@@ -62,7 +63,7 @@ export default {
             {
                 default: true,
                 name: 'main',
-                url: 'http://localhost:3001',
+                url: `http://${process.env.BASE_URL ?? "localhost"}:3001`,
                 vuex: {
                     mutations: [
                         {
