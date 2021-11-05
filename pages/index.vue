@@ -1,8 +1,5 @@
 <template>
     <div class="container">
-        <div class="row">
-            <div class="col">TEST</div>
-        </div>
         <div
             class="row"
             v-for="(msg, idx) in $store.state.chatMessages"
