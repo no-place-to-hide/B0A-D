@@ -49,10 +49,15 @@ const getLast = (id: string) => {
 };
 
 const messageList = () => {
-    return Object.values(chatMessages)
+    const messages = Object.values(chatMessages)
         .flat()
         .sort((lhs, rhs) => lhs.date.getTime() - rhs.date.getTime())
         .filter((msg) => msg.message);
+
+    return [
+        ...messages.filter((msg) => !msg.isEditing),
+        ...messages.filter((msg) => msg.isEditing),
+    ];
 };
 
 const bg_color = (id: string) => {
@@ -84,7 +89,6 @@ io.on('connection', (socket) => {
     socket.on('edit-message', (message) => {
         const msg = getLast(id);
         msg.message = message;
-        msg.date = new Date();
 
         io.emit('update-message-list', messageList());
     });
