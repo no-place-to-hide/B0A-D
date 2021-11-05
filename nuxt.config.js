@@ -2,6 +2,7 @@
 /** @type {import('vue-class-component/hooks')} */
 
 const ioUrl = `http://${process.env.BASE_URL}:3001`;
+console.log(ioUrl);
 
 export default {
     // Global page headers: https://go.nuxtjs.dev/config-head
