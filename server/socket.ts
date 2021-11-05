@@ -78,7 +78,7 @@ io.on('connection', (socket) => {
     const id = socket.id;
 
     socket.on('get-messages', () => {
-        io.emit('update-message-list', messageList());
+        socket.emit('update-message-list', messageList());
     });
 
     socket.on('edit-message', (message) => {
@@ -86,7 +86,7 @@ io.on('connection', (socket) => {
         msg.message = message;
         msg.date = new Date();
 
-        io.emit('update-message-list', messageList());
+        socket.emit('update-message-list', messageList());
     });
 
     socket.on('save', (message) => {
@@ -95,7 +95,7 @@ io.on('connection', (socket) => {
         msg.isEditing = false;
         msg.date = new Date();
 
-        io.emit('update-message-list', messageList());
+        socket.emit('update-message-list', messageList());
     });
 
     socket.on('disconnect', () => {
@@ -104,7 +104,7 @@ io.on('connection', (socket) => {
         msg.isEditing = false;
         msg.date = new Date();
 
-        io.emit('update-message-list', messageList());
+        socket.emit('update-message-list', messageList());
     });
 });
 
