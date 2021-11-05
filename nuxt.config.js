@@ -1,6 +1,8 @@
 /** @type {import('nuxt-socket-io').NuxtSocketIoOptions} */
 /** @type {import('vue-class-component/hooks')} */
 
+const ioUrl = `http://${process.env.BASE_URL}:3001`;
+
 export default {
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
@@ -33,7 +35,7 @@ export default {
     buildModules: [
         // https://go.nuxtjs.dev/typescript
         '@nuxt/typescript-build',
-        '@nuxtjs/dotenv'
+        '@nuxtjs/dotenv',
     ],
 
     // Modules: https://go.nuxtjs.dev/config-modules
@@ -63,7 +65,7 @@ export default {
             {
                 default: true,
                 name: 'main',
-                url: `http://${process.env.BASE_URL ?? "localhost"}:3001`,
+                url: ioUrl,
                 vuex: {
                     mutations: [
                         {
