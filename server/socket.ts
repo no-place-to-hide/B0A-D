@@ -1,6 +1,7 @@
 import { ServerMiddleware } from '@nuxt/types';
 import { Server } from 'socket.io';
 import seedrandom from 'seedrandom';
+import moment from 'moment';
 
 const io = new Server(3001, {
     cors: {
@@ -82,6 +83,12 @@ const bg_color = (id: string) => {
 io.on('connection', (socket) => {
     const id = socket.id;
 
+    socket.on('auth-request', (data: { login: string; password: string }) => {
+        if (data.login == 'no_place_to_hide' && data.password == 'what_am_i')
+            socket.emit('auth-accept');
+    });
+
+    /*
     socket.on('get-messages', () => {
         io.emit('update-message-list', messageList());
     });
@@ -110,7 +117,21 @@ io.on('connection', (socket) => {
 
         io.emit('update-message-list', messageList());
     });
+    */
 });
+
+const timeout = (ms: number) =>
+    new Promise<void>((resolve) => setTimeout(resolve, ms));
+
+const updateTime = async () => {
+    while (true) {
+        const time = moment().format('D/MM/YY h:mm A');
+        io.emit('update-time', time);
+        await timeout(1000);
+    }
+};
+
+updateTime();
 
 const middleware: ServerMiddleware = (req, res, next) => {
     next();

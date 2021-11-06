@@ -1,0 +1,982 @@
+<svg viewbox="0 0 5000 5000" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="0" font-size="15" font-family="monospace" dy="0">
+        <tspan x="0" dy="1.2em">``````
+            `-/+++++/-----.......-://++++///////////:------://///////////////////+oooossssssyyyyyyyyyyyyyyyyyyyyyyyyyyyyyhhhhhhyyyyyhyhhyyhhhhhhhhhhhhhhhyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyo//::::::::::
+        </tspan>
+        <tspan x="0" dy="1.2em">`````
+            `./+++++/:----........-:++++////////////:--..---//////////////////////++o+oossssssssyyyyyyyyyyssyyyyyyyyyyyyyhhhhhyyyyyyyyhhyyyhhhhyyhhhhhhhhyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyso/::::::::
+        </tspan>
+        <tspan x="0" dy="1.2em">```
+            `:/++++/:----........-:+++/////////////:--...--:///////////////////////+++++oooosssssssssssyyssssyyyyyyyyyyyyhhhhyyyyyyyyyyyyhhhhhyyyhhhhhhhyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyo+/:::::/
+        </tspan>
+        <tspan x="0" dy="1.2em">``
+            `-/++++/:----.......-::///////////////::--.....-:///////////////////////+++++++oooossssoo+++ssssssssyyyyyyyyyyhhhhyyyyyhyyyyyyhhhhyyyhhhhhhhyyyysssyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyso/::::
+        </tspan>
+        <tspan x="0" dy="1.2em">`
+            `.:++++/:-.--......-:::--:////////////::--......-:///////////////////////+++++++++++oo+++++++osoosssssyyyyyyyyyhhhyyyyyyyyyyyyhhhhyyyyyyhhhhhyyyssssyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyo+/:
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `-/+++/:-.--.....-://--.-:////////////:--.......-:////////////////////////+++++++++++++/////++oooossssssssssyyyyyyyyyyyyyyyyyyyyyyyyyyyyhhhhyyyssssssyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdddddhhhhyyyyyysss-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `.:++++/-..-.....://:-...-:///////////:---.......--/////////////////////////++++++++//////////++o+oooossssssssssyyyyssyyyyyyyyyyyyyyyyyyyhhhyyyssssssssyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdddddddddhyssyyyhhho.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `-/+++/:.......-/++:.....-:///////////:--........--://///////////////////////+++++/////////////++++oooooooooooosyyyyyyyyyyyyyyyyyyyyyyyyyyhhyysssssssssyyhhhhyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddmmmmmmdhysosyhhhhho.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `:++++:-......:/+/:.``...-:///////////---........--:///////////////////////////////////////////+++++++oooooo+++osyyyyyyyyyyyyyyyyyyyyyyyyyyyysssssssssssyyhhyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyhyhyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdddmmmmmmmdhs++shhhhhh+.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `./+++/-.....-:++/-.``....-://////////:-...........-:////////////////////////////////////////////++++++++++++++++syyssyyyyyyyyyyyyyyyyyyyyyyyyssssssssssssyyhyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddddmmmmmmmmdy+/shhhhhhm`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `-/+++:-....-/oo+-.```....-://////////-............--/////////////////////////////////////////////+++++++++++++++osssssyyyyyyyyyyyyyyyyssssyyssssssysssssssyhhyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmdmmmmmmmmmmhsodhhhhhhh+`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            .:+++/:...--/++/-.````....-://///////:..............-:////////////////////////////////////////////++++++++++//+++osssssyyyyyyyyyyyyyyyssssossssssssysssssssyyhyyyyyhhyyhhhhhhhhhhhhhhhhhhyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddhhhhhhhhhhhhhhhhhhhhhddmmmmmmmmmmmmddmdhhhhhhhh/`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `./+++/-..-:/++/-``````....-:///////::-..............-://///////////////////////////////////////////++++++++////++osssossssyyyyyyyyyysssooo+osssssssyssssssssyyyyyyyhhyyhhhhhhhhhhyyyhhhhyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddhhhhhhhhhhhhhhhhhhhmmmmmmmmmmmmmmmmmmmdhhhhhhm:
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `-++++:..-:/++/-.``````....-://////:--.........``.....://///////////////////////////////////////////+++++++//////++osoosssssssyyyysssoo++/+++ssssssyysssssssssyyyyyyyyyyhhhhhhhhyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddddhhhhhhhhhhhhhddmmmmmmmmmmmmmmmmmmmmmdhhhhhh/
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `:+oo+:..:+oo+-.```````.....://///:--..........```....-://///////////////////////////////////////////+++++////////+ooooosssssssssssoo+/:://++ssssssyyssssssssssyyyyyyyyyhhhyyyhyyyyyyysyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddddhhhddmdddmmmmmmmmmmmmmmmmmmmmmmmmmmdhhhhh:
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            .:+oo/-.-/oso/.````````.....-////:---........`````....-:///////////////////////////////////////////////+++////////++o++ooosssssssoo+/::-::/++osssssyyssssssssssyyyyyyyyyyyyyyyyyyyyyysssyyyyyyhhhhhyhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdhhhhhy:
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ./ooo/--/oss/-.````````.....-::/:----.......```````....-:///////////////////////////////:///:://///////////////////+++++oooooosso+//:----:/+++sssssyysssssssssssyyyyyyyyyyyyyyyyyyyssssssyyyyyyhhhyyyhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmdhhhhh:
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `.+oso/-:+ss+:.`````````.....---:----........````````....-://////////////////////////////:::::://////////////////////++++++oooooo+/::-----:/+++sssssyyssssssssssssyyyyyyyyyyyyyyyyysssssssyyyyyyyhhyyyyhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddmmmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdddhhhhhdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmdhhhhy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `-+sso/-/oso:.`````````````..-------........`````````....-::////////////////////////////:::::::///////////////////////+++++++++++/:-------:/+++ossssyyssssssssssssssssyyyyyyyyyyyysssssssssyyyyyyyhhyyyhhhhhhhhhhhhhhyhhhhhhhhhhyyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdhhhhhhdmmmmmmmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddddddhhdmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmd/ymmmmddhhhs`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `:osso/:+ss+-.``````````````..-----.........`````````.....-::::::::::://////////////////::--:::://////////////////////++++++++++/:--------:/++++ssssyhssssssssssssssssssssyyyyyysssssssssssyyyyyyyyhhyyyhhhhhhhhhhhhhyyyhhhhhhhhhyyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmmmdhhhhdmmmmmmmmmmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddddmmmddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmd
+            hdmmmmddhhs.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `:osso//oso/.```````````````.....-..........````````````...-::::::::::::::///////:::////:-----::://////////////////////++++++++//:---...---/++++osssyhssssssssssssssssssssssssssssssssssssssyyyyyyyyhyyyyhhhhhhhhhhhhhyyyhhhhhhhhhyyyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmmmmmmddddmmmmmmmmmmmmmmmmdhhhhhhhhhhhhhhhhhhhhhhhhhhddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmms
+            .hmmmmmddhh`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `/osso++sso-.````````````````...............````````````...-:::::::::::::::://///:--:///:-----::://////////////////////+/+++++///----.....-:/+++oossyhyssssssssssssssssssssssssssssssssssssssyyyyyyyhhyyyhhhhyhhhhhhhhyyyyhhhyyyyhhyyyyyyyyyyyyyyyyyyyhhhhhhdddmmmmdddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddhhhhhhhhhhhhhhhddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmo`
+            :hmmmmmdhy.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `/osssooss/.``````````````````..........```.`````````````...-::::::::::::::::::/:----:/:-------::////////////////////////+++++//:----.....-:/++++ossshyssssssssssssssssssysysssssssssssssyyyhhhhddddhhhhhhhhhhhhhhhhhhhyyyyyyyyyyyyyysyyyyyyyyyyyyyyyyyhhhhdmmmmmmmmmmmmdhhhhhhhhhhhhhhhdddddddddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdhhhhhhhhhhhhhhhhhhdddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdh.
+            mmmmmmmdh`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ./osssssso:.```````````````````.........`````````````````.....-::::::::::::::::::--.--/:---.---::://////////////////////////////:----.....-:/+++++ooshhssssssssssssssyyhhhhhhhhdddhhhhhhhhhhddmmmmmmdhhhhhhhhhhhhhhhhhhhyyyyyyysyyyysssyyyyyyyyyyyyyyyyyyhhmmmmmmmmmmmmmmmdhhhhhhhddddddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdhhhhhhhhhhhhhhhhhhhhddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdm
+            /dmmmmmdds
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `/osssssso:.``````````````````````...`````````````````````....----::::::----::::--..---:--...---:://////////////////////////////:----.....-:/+++++oosyhssssssssssssssyyhhhhhhhhdddhhhhyyhhhhhhddmmmmdhhhdhhhhhhhhhhhhhhhhhyyyyssssssssssyyyyyyyyyyyyyyyyyhdmmmmmdmmmmmmmmmmdhhhhhhdddddddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdhhhhhhhhhyhhhhhhhhhhhhhhhhdmmmmmmmmmmmmddmmmmmmmmmmmmmmmmmmmmmmmmd/
+            dddmmmmmo
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `/ossssss+-````````````````````````..`````````````````````......----::::----::::-....-----...---:://////////////////////////////:----.....-:/++++++ooyhyssssssssssssssyyhhhhhhhdddhhhyyyyyyhhhhddmmmmdhhhhhhhhhhhhhhhhhhhhhyyysssssssssssyyyyyyyyyyyyyyyyyhdmmmmmmmddmmmmmmmdhhhhhhhhhhddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdhhhhhhhhhhyyhhhhhhhhhyhhyyyyhdmmmmmmmmmdhhdmmmmmmmmmmmmmmmmmmmmmmmmd:
+            hddmmmmmmo
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``/osssyss/.`````````````````````````..``.``````````````````......----:::-----::--.....----....---:::://///////////::::::////////:-.-......--/++++++ooshysossssssssssssssyyyyyyyyyyyyyssssssyyhhhddmmmddhhhhhhhhhhhhhhhhhhhyyyysssssssssssyyyyyyyyyyyyyyyysyhddmmmmmmddddmmmmdhyhhhhhhhhhhhdddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddhhhhhhhhhhhyyyhhhhhhhhyyhyyyyyyyhdmmmmmdhhhhhdmmmmmmmmmmmmmmmmmmmmmmdh:
+            hhdmmmmmm+
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``/ooosyys/..````````````````````````...`.```````````````````......-----------:--..............---::::::::////////::::::::://////:-.-.......-:/++++++oshhsoosssssssssssssssssssssssssssssoooosssssyyhhhdhhhhhhhhhhhhhhhhhhhyyyyysssssssssssyyyyyyyyyyyyyyyysyyhhddmmddhhhhhddhyyhddhhhhhhhhhhhhdddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddhhhhhhhhhhhhhhyyyhhhhhhhyyyyyyyyyyyyyhdddhhhhhhhdmmmmmmmmmmmmmmmmmmmmmdhy`
+            hhdmmmmmm/
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``:ooosyys/..````````````````````..............``````````````........--.--.------..............----::::::::://///:::::::::::::://:-.........-://++++++oyhyooossssssssssssssssssssssssssssssoossssossssssyyyhyyyyhhhyhhhhhhhhyyyyssssssssssssyyyyyyyyyyyyyyyyyyyyhhhhhyyssssssyyyyhddhhhhhhhhhhhhhhhhddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddhhddmmmmmmmmmmmmmmmddhhhhhhhhhhhhhhhhyyyyhhhhhhyyyyyyyyyyyyyyyyyyhhhhhhhdmmmmmmmmmmmmmmmmmdddhhhy
+            /hhddmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``-+o+oyys:..````````````````````...............```````````````......---.......-...............----:::::::::::::::::::::::::::::::-.........-:///++++++shhsooosssssssssssssssssssssssssssssoosssssossssssyyhyyyyhhhhhhhhhhhhhyyyysssssssssssyyyyyyyyyyyyyyyyyysyyyyyyssssssssssyyyhddhhhhhhhhhhhhhhhhhhhdddmmmmmmmmmmmmmmmmmmmmmmddhhhhhhhhhhhddddddddddhhhhhhhhhhhhhhhhhhyyyyyyhhhhhyyyyyyyyyyyyyyyyyyyhhhhhhhdmmmmmmmmmddddhhhhhhhhhhs
+            hhhddmmmmmd
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``-+++osyo:..`````````````````````...............````````````````.....--........................----::::::::::::::::::::::::::::::-..........:////+++//oyhyoooosssssssssssssssssssssssssssssoosssssosssssyyyhyyyyhhhhhhhhhhhhhyyyysssssssssssyyyyyyyyyyyyyyyyyysyyyyssssssssssssyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhdddddmmmmmmmmmdddddhhhhhhhhhhhhhyyhdhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyyyhhhhyyyyyyyyyyssssyyyyyyhhhhhhhdmmmmmdhhhhhhhhhhhhhhhhh-
+            `hhhddmmmmmh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``-++/oyys:...````````````````````...............`````````````````..............................----:::::::::::------:::::::::::::-.........--/////+++++shysoooosssssssssssssssssssssssssssoooossssossssssyyhhyyyyhhhyhhhhhhhhyyyyysssssssssssyyyyyyyyyyyyyyyyyysyyyysssssooooosssyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhshdyyhhhhhhhhhhhhhhhhhhhhhhyyssyyyyyhhhyyyyyyyyyyssssssyyyyhhhhhhhhhdmmdhhhhhhhhhhhhhhhhhhh
+            +hhhddmmmmmh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``.///oyhy/.`.``````````````````````..............````````````````````..........................-----::::::::::-..---:::::::::::::-..........-://///++++ohdyo+ooosssssssssssssssssssossssssoooooosssossssssyyhyyyyyhhhyhhhhhhhhyyyysssssssssssyyyyyyyyyyyyyyhyyyysyyyyssssooooooosssyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhyyhhsyhhhhhhhhhhhhhhhhhhhhhyssssyyyyyhhyyyyyyyyysssssssssyyyhhhhhhhhhddddhhhhhhhhhhhhhhhhhho
+            ohhhddmmmmmh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `.:/:+yhho.`.``````````````````````..............`````````````````````..........................-----::::::::--...---::::::--::::-..........-://////++/+yhho+++oossssssssssssssssssoossoosooooooosoosssssssyyhyyyyyyhhyhhhhhhhhyyyysssssssssssyyyyyyyyyyhhyhhyyyyyyyyysossoooooooossyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhyssyyhhhhhhhhhhhhhhhhhhhhhhhhhyyhhssyhhhhhhhhhhhhhhhhhhhhysoosyyyyyyyyyyyyyyyysssssssssssyyyhhhhhhhhddddhhhhhhhhhhhhhhhhhh-
+            hhhhdmmmmmmy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `-/:/syyo-...``````````........................``````````````````................................-------::---.....-----------::--...........:////////++ohhso+++oosssssssssssssssssoossoosoooooo+ooooossssssyyhyyyyhyhyyhhhhhhhyyyyyssssssssssyyyyyyyyhyhhhhhhyyyyyyyyysossooooooooosyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhyoosyhhhhhhhhhhhhhhhhhhhhhhhhhhyhhoooyyhhhhhhhhhhhhhhhhhhyoooosyyyyyyyysyyysysyssssssssssssyhhhhhhhhhddddhhhhhhhhhhhhhhhhhy
+            dhhhhdmmmmmmo
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            -::/syso:....```````...........................``````.........``..................................---------.......--------------...........-://///////+shho++++oosssssssssssssssoooosooosoooooo+oooosssssssyyhyyyyhhhyyhhhhhhhyyyysssssssssssyyhyyyyyhyhhhhhhhyyyysyyysoosoooooooooosyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhyo+oyhhhhhhhhhhhhhhhhhhhhhhhhhhyhhs++oyyhhhhhhhhhhhhhhhhhyo++ossssssyyysyyysssssssssssssssssyhhhhhhhhdddddhhhhhhhhhhhhhhhhh`
+            hhhhhdmmmmmmo
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :::osys/....````````...........................````...............................................--------.......---------.---............-://///////+oyhyo++++oosssssssssssssssooosooooooooooo++ooossssssyyyhyyyyhhhyhhhhyhhhyyyysssssssssssyyyyyyyyyyhhhhhhhyyyssyyysoosoooooooooosyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhyo++syhhhhhhhhhhhhhhhhhhhhhhhhhyhhs+//oyyhhhhhhhhhhhhhhhhso++oosssssssssyyyysssssssssssssssssyhhhhhhhhddmddhhhhhhhhhhhhhhhhh
+            -hhhhhdmmmmmm`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ::+syy+-.`..```````............................````.........-.....................................-------........-------..................-//////////+ydhs+++++ooossssssssssssoooossoooooooooo+++oosssssssyyyhyyyyhyhyhhhhhhhyyyyyssssoossssssyyyyyyyyyhyyyyyyyyyssyyysoosoooooooooosyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhyo//oyhhhhhhhhhhhhhhhhhhhhhhhhyyhdy+//+syyhhhhhhhhhhhhhhys++++osssssssssyyyysyssssssssssssoossyhyhhhhhhddddhhhhhhhhhhhhhhhhh/
+            hhhhhhmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :/syyo-..`.```````.............................`...................................................-----..........--------........`.`....-://////////oyhyo+++++oooossssssssssoo+ossooosooooooo+//oosssssssyyyyyyyyyyyyhhhyhhhyyyysssssoossssssyyysyyyyyyyyyyyyyysssyyysoosoooooooooooyyyyhhhhhhhhhhhhhhhhhhhhhhhhhys+//+syhhhhhhhhhhhhhhhhhhhhhhhyyhdy++//osyyyhhhhhhhhhhhhys++++ossssssssssyyysyssssssssssssooosyyyyyyhhyhddddhhhhhhhhhhhhhhhhh
+            /hhhhhdmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :syhy:.....``````...................................................................................---------....--------.........```...-://////////+shhs++++++oooosssssssssoo+oosoooosssooooo+//oosssssssyyhyyyyhyhyyhhhyhhhyyyysssssoossssssyyyssyyyyyyyyyyyyysssyyysoosooooooooo+osyyyhhhhhhhhhhhhhhhhhhhhhhhhhys+/:/oyhhhhhhhhhhhhhhhhhhhhhyhyyhdho+//+oyyyyhhhhhhhhhhhys++++osssssossssyyyyyssssssssssssoooosyyyyyyhyyhddmdhhhhhhhhhhhhhhhh:
+            hhhhhhmmmmmmm/
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            oyyy/......`````....................................................................................---------....-------.........````...-://////////oyhho++++++ooooosssssssoo+oosooooossooooo+///oosssssssyyhyyyyhhhyhhhhhhhyyyyysssso++osssssyyyooyyyyyyyyyyyysssssyysoosooooooooo++syyyyhhhhhhhhhhhhhhhhhhhhhhhyyo/::/+yhhhhhhhhhhhhhhhhhhhhhyhyyydho////+syyyyhhhhhhhhhhys+++++osssooossssyyysysssssssssssoooossyyyyyhyyyddmmdhhhhhhhhhhhhhhhh
+            hhhhhhhmmmmmmm+
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            syys-.....``````...................................................................................----------.....---........`..`````..-:///////////ohhyo++++++ooooossssssoo+oossoooossosoooo+///ooossssssyyhyyyyhyhyhhhhhhhyyyyssssso++sssssssyyoosyyyyyyyyyyysssssyysoosoooooooo+++syyyyhyhhhhhhhhhhhhhhhhhhhyyyyo//:/+shhhhhhhhhhhhhhhhhhhhyyhyyydho//::/oyyyyyhhhhhhhhhyso++++ososooossssyyysysssssssssssoooossyyyyyyyyyhddddhhhhhhhhhhhhhhhh:
+            `hhhhhhdmmmmmmN
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            syy/.....`````......................................----...........................................---------.................`.````....-://////////+shhs+++++++ooooosssssoo+ooosoooossooooooo+///ooossssssyyhyyyyhyyyhhhhhhyyyyyssssso++ssysssyys++oyyyyyyyyyyssssssyysoossooooooo+++oyyyyhyyhhhhhhhhhhhhhhhhhyyyys+//::+shhhhhhhhhhhhhhhhhhhhyyhyyydho//:::+syyyyhhhhhhhhhhyo++++osoooooossssyysssssssssssssooooossyyyyyhyyyddmmdhhhhhhhhhhhhhhhh
+            yhhhhhhmmmmmmm/
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            yyo-......```.....................--.-............---------.......................................----------................`..```....-:///////////+yhho+++++++ooooosssso++oooosoooosooooooo+////osossssssyyyyyyyyyyyhhhhhhyyyyssssss+++sssssssso//+syyyyyyyyysssssssysoosoooooooo+++osyyhhyyyhhhhhhhhhhhhhhhhyyyys/::--/shhhhhhhhhhhhhhhhhhhyyyyyyydhs+/:::/oyyyyyhhhhhhhhhyo++++osoooooosssssyyysssssssssssooooossyyyyyhyyyhddmdhhhhhhhhhhhhhhhh
+            mhhhhhhmmmmmmmN
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            yy/.......``....................-----............-----------..............................-......-----------...............``.`````...-:///////////oyhyo++++++++oooossso+++ooosoooosoooooooo+////ossssssssyyyyyyyyyyyhyyyyyyyysssssso+/+ososooso++++oyyyyyyyyssssssssssoossoooooo++++osyyhyyyyhhhhhhhhhhhhhhhyyyyyo::---/oyhhhhhhhhhhhhhhhhhhyyyyyyydho+::::/+syyyyhhhhhhhhhyo+++++sooooooossssyyyyysssssssssooooossyyyyyhyyyyddmmdhhhhhhhhhhhhhyh/
+            -hhhhhhhmmmmmmmh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ys-.....```..................-----------........-------------............................--.....-----------................`..```.``..-:///////////ohhs++++++++ooooossoo++oooooooosoooooooo+/:::/ossosssssyyyyyyyyyyyyyyyyyyyyssssss++/+ooooooo++++/+syyyyyyssssssssssssssooooooo++++osyyhyyyyhhhhhhhhhhhhhhyyyyys+::---/oyhhhhhhhhhhhhhhhhhyyyyyyyyhhoo//:::+syyyyhhhhhhhhhyo+++++ooooooooosssyyyyyssssssssoooooosssyyyyyhyyyhdmmdhhhhhhhhhyyyyyyy
+            hhhhhhhmmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            y/......```..................------------.-....---------------..........................--......-----------...............`..``.`.....:::::///////+shho++++++++++oooooo++oooosooooooooooooo/::::/ossossssssyyyyyyyyyyyyyyyyyysssssso++/++++oo+++/////syyyyysssssssssssssssooooo++++++osyyhyyyyhhhhhhhhhhhhhyyyyyys/::---/oyhhhhhhhhhhhhhhhhhyyyyyyyyhyso//:::/oyyyyhhhhhhhhhyo+++++oooooooooosssyyysssssssssooooossssyyyyyhyyyhddmdhhhhhhhhhyyyyyyy.
+            yhhhhhh+mmmmmmmh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            s-.........................-----------------------------------.........................---.....------------.........----..`..........-:::::::::///+yhyo+++++++++++ooooooo++ooooooooooooooo+/:--:+ossossssssyyyyyyyyyyyyyyyyyssssssso++/++++oo+++/////oyyyyssssssssssssssssoo+o+++++++osyyhyyyyhhhhhhhhhhhhyyyyyyyo::----/oyhhhhhhhhhhhhhhhhyyyyyyyyyhyso//:::/+syyyhhhhhhhhyyo+++++oooooooooosssyyyssssssssoooooosssssyyyyhyyyhhddddhhhhhhyhyyyyyyyy
+            ohhhhhhdmmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            o.................-.......--------------------------------------......................----....-------------.......-----:.......``....-:::::::::///oyhyo++++++++o+++++oooo+oooooooooooooooo+::--:+sssoosssssyyyyyyyyyyyyyyyyysssssso+////+++oo+++/////+syysssssssssssssssssooo++++//++oyyyyyyyyhhhhhhhhhhhyyyyyyyy+::----/oyhyyhhhhhhhhhhhhhyyyyyyyyyhyyo/:::::+syyyhhhhhhhhyy+++++++++oooooooosssyyssssssssooo+ooossssysyyhyyyyhddmdhhhhhhyyyyyyyyyy
+            hhhhhhh:mmmmmmm+
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            +.................-....------------------------------------------.....................---....-----------------------//+/-...........-::::::::::///ohhs+++++++++o+++++oo+++ooooooooooooooo+/::-:/ossooosssssyyyyyyyyyyyyyyyyssssssso/////+++++++/:/:::/osssssssssssssssssssoo+++++//+osyyhyyyyhhhyhhhhhhhyyyyyyyys/::---:+syyyyhhhhhhhhhhhhyyyyyyyyyyhyys/:/:::/oyyyyhhhhhhhys+++++++++oooooooosssyyssssssssooo++oossssysyyhyyyyhddmddhhhhhyyyyyyyyyy`
+            hhhhhhh mmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :................--------------------------------------------------..................----....----------------------:/++:............-::::::::::///oyhs+++++++o+++++++o++++ooooooooooooooo+::--:/ossooosssssyyyyyyyyyyyyyyyyssssssso+///++++++++/:/::::ossssssssssssssssssso+++++///+osyyhyyyyhhhyhhhhhhhyyyyyyyyo::----:+syyyyhhhhhhhhhhhyyyyyyyyyyyhhys+:::::/oyyyhhhhhhhhys++++/+++++oooooooosssysssssssoooo++oossssssyyyhyyyhhddddhhhhhyyyyyyyyyys
+            hhhhhhh Nmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            -...............-----------------------------------------------------..............--------------------------------:/++-..-.........--:::::::::///shhs+++++++++++++++++++ooooooooooooooo+/::--:+ossooossssssyyyyyyyyyyyyyysssssssso+///++++++++/::::::/sssssssssssssssssssoo+o++/:/+osyyhyyyyhhyhhhhhhhyyyyyyyys/::----:+oyyyyhhhhhhhhhhhyyyyyyyyyyhdhyy+::::::+syyhhhhhhhhyo++/++++/++ooooooooossssoooossoooo+++osssssyyyyhyyyhhddddhhhhhyyyyyyyyyys
+            hhhhhhh mmmmmmm/
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ................--------------------------------------------------------..........-------:------------------------:/++/-.-..........---:::::::://+yhho++++++o+++++++++++++oooooooooooooo+:::::/+ossooossssssyyyyyyyyyyyyysssssssss++//+++++oo++:-:----/ossssssssssssssssssoo+++/::/ossyyyyyyyhhhhhhhhhhyyyyyyyyo:------//oyyyyhhhhhhhhhhhhyyyyyyyyyddhhyo::::::+syyhhhhhhhyyo++++++////oooo++oooosssooooooooo++++osssssyyyyhyyyyhddmdhhhhhhyyyyyyyyyy
+            hhhhhhh mmmmmmmd
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ..............---------------------------------------------------------------....-------::-----------------------://++:..-.........----:::::::://+shyo+++++++++++++++++++oo+ooooooooooo+/:::::/+osssoossssssyyyyyyyyyyyyssssssssso++//+o+++oo++:::----:ossssssssssssssssssoo+++/::/ossyyyyyyyyyyhhhhhyyyyyyyyys/:-----:/+oyyyyhhhhhhhhhhhyyyyyyyhhhddhhho:-::::+syyhhhhhhhys+++++++////oooo++oooossso+o++oo++++++osssssssyyhyyyyhddddhhhhhhyyyssyssyy/
+            syhhhhh mmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            .............-----------------------------------------------------------------..--------::----------------------::/+++-..-.........----:::::::://+shyo++++++++++++++++//+o+++ooooooooo++/:::://+osssoossssssyysyyyyyyyyyssssssssso++++oooo++o+/-::----:ossssssssssssssssssoo+++/::+ossyyyyyyyyyyyyyyyyyyyyyyyyo:------:/+syyyyyhyyyyyyyyyyyyyyyyhhddmddhs:--:::/oyyyhhhhhhyo+++++++////+oooo+oooooss+++++oo++++++osssssssyyhyyyyhddddhhhhhhyyyssssssss
+            /yyhhhh `mmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            .............-----------------------------------------------------------------.---------::--------------------:::///+/-.-.........-----:::::::://+yhyo+++++++++++++++///+++++++ooooo+++/:::::/++osssoosssssssysyyyyyyyysssssssssso++++oosso+o+/-::----:ossssssssssssssssssoo++////+ossyyyyyyyyyyyyyyyyyyyyyyys/:------://syyyyyyyyyyyyyyyyyyyyyyhddmmddds:--:::/oyyyyhhhyys++++++++/::/+oooo+ooooooo+/++/+o++++++osssssssyyhhyyyhhdmdhhhhhhyyyssssssss
+            yyhhhh/ mmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            -...........------------------------------------------------------------------.---------::----------------::::://///+/..-.........-----:::::::://+yhs++++++++++++++/////++++++++++++++/::::://++osssoosssssssyssyyyyyyssssssssssso+/+oosyyoooo:-:-----:ossssssssssssssssssoo++//:/+ossyyyyyyyyyyyyyyyyyysyyys+:-------:/+syyyyyyyyyyyyyyyysyyyyhhddmmdddy/:--::/oyyyyyyyyso+++++++/::::+o+o+++oooooo+//+/+o++++++oossssssyyhhyyyhhdmdhhhhhhyyyssssssss
+            yyyhhhy mmmmmmm-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            --....--...----------------------------------------------------------------------------::---------------::::::///////:..-.........-----:::::::::/+shs+++++++++++++//////+++++++++++++/::::://+++ossssosssssssyssysyyysssssssssssso+/+osyyysooo:::-----/sssssssssssssssssssoo+/:::/+ossyyyyyyyyyyyyyyyyysssss+/--------:/+syyyyyyyyyyyyyyyyyyyyyhddmmmdddy/::-::/oyyyyyyyyo++++++++/::::+o+o+++oooooo+////++++++++oossssssyyhhyyyhhdddhhhhhhyyyssssssss
+            syyhhhs mmmmmmmN
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            --....---------------------------------------------------------------------------------::--------------::::://///////:............-----------:::/+shs++++++++++/////////++++++++++++//:::::/++++ossssosssssssyssyyysyssssssssssss+++osyyyyyoo+:::-----/sssssssssssssssssssoo+/::::+ossyyyyyyyyyyyyyyyysssso+/:--------:/+syyyyyyyyyyyyyyysyyyyhdddmmmdhyo/---::/oyyyyyyyso++++++++/::::+o+++++++oooo+/////+++++++oossssssyyhhyyyhhdmdhhhhhhyyyssssssss
+            yyyyhhy hmmmmmmh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ---..---------::-----------------------------------------------------------------------::--------------:::///////////:...........------------:::/+yhs++++++++//////////++++++++++++//::::://++++ossssosssssssssssyyysssssssssssss+++shhhhyyso+-:------+sssssssssssssssssssoo+:::::/ossyyyyyyyyyyyyyyssssso++:---------:/oyyyyyyyyyyyyyyyyyyyyyhdddmdy+////---::/oyyyyyyso+++++++++/::::/++++++++ooo++/////+++++++oossssssyyyhyyyhddddhhhhhhyyyssssssss`
+            yyyyhhh `mmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            -------------::::----------------::---------------------------------------------------::--------------://////////////:.-.....`...-------------::/+yhs+++++/////////////++++++++++++///:::///+/++osssssssssssssssyyyysssssssssssso++shdhhhhyyo/-:-----:ossssssssssssssssssso+/:::::+ossssyyyyyyyyyyysssssoo+/--------:::/oyyyyyyyyyyyyyyyyyyyyhddhyso/+oyyo:---:/oyyyyyys+++++++++/:::--:++++++++ooo+//::///+++++++ossssssyyyhyyyyddddhhhhhhyyyssssssso/.
+            syyyyyy mmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :-----------::::::--------:--:::-:------------------:::-------------::::-------------:::--------------://////////////-.-.........-------------::/+syo+++//////////////++++++++++++////::////+/++ossssosssssssssssyyysssssssssssso+ohdddhhhyyo:-------/ossssssssssssssssssso+::::::+ossssssyyyyyyyssssssoo+/:--------:::+syyyyyyyyyyyyyyyyyyyhhhs++soohddds----:/oyyyyyso+++++++++/::---:/++++++++o++//::///+++++++ossssssyyyhyyyyddmdhhhhhhyyysssssss+::-/yyyyys
+            mmmmmmh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ::--------:::::::::------:--:::::------------------:::-----------:::::::::----::-----:::--------------://////////////-.-........--------------::/+syo+////////////////+++++++++++//////////////+ossssssssssssssssyysssssssssssssoohddddhhhhyo:------:+sssssssssssssssssssoo/::::::+ossssssssyyssssssssoo++:-------::/:/oyyyyyyyyyyyyyyyyyyyyyo++oyhdddmmdy----:/oyyyyso++++++++++:::---//++++++++++///:::///++++++ossssssyyyyyyyyddmdhhhhhhyyysssssss+:::/syyyy-
+            mmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /::------:::::/::::----::::::::::--------------:--::::----------::::::::::::::::----:::---------------://////////////-.-....`.-.---------------:/+syo/////////////////++++++++++//++/+++///////+osssssssssssssssyyssssssssssssssoyddddddhhhy+:------:ossssssssssssssssssso+::-::::+osssssssssssssssssooo+/-------:///:/oyyyyyyyyyyyyyyyyyyyyo+oyhmmmmmmmdy----:/oyyyyo+++++++++++:::--:///+++++++++//::-:///++++++osssssssyyyyyyydmmhhhhhhhyyysssssss+::::+syyy
+            mmmmmmd
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            +:::-:---::::///:::---:::::::::::-------------::::::::---------:::::::::::::::::---::::--------------:///////////////-.-........---------------:/+yyo+///////////////+++++++++///+o++oso///////+osssssssssssssssssssssssssssssssydddddddhhhs/:-----:+ossssssssssssssssssso/:---::/+ssssssssssssssssssoo+/-----.--/o/::/oyyyyyyyyyyyyyyyyyyysshdmmmmmmmmmmy:---:/osyys+++++++++++/::---:///+++++++++//:---::/+++++oossssssyyyyyyyydddhyhhhhhyyysssssss+::::+ssyy
+            mmmmmms
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            o:::-:--:::::///:::--:::::::::::-------------:::::::::--------::::::::::::::/:::-::::::--------------:///////////////---........--------------://+syo////////////////++++++++/------:/++///////+ossssssssssssssssssssssssssssssydddddddddhho::-----/ossssssssssssssssssss+:-----:/ossssssssssssssssooo+/:------:/oo//:/syyyyyyyyyyyyyyyyyyhdmmmmmmmmmmmmdy/--::+sssso+++++++++++/:----:///+++++++++/::----::/++++oosssssssyyyyyyydddhyhhhhyyyysssssss+::::+oso//.
+            mmmmmms
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            s//:-:--:::::////:::::::::::::::------------:::::::::--------::////////:/:://::::::::::--------------:///////////////-.-.....-.---------------://+syo/////////////+/+++++++++/:-......-:///////+osssssssssssssssssssssssssssssyddddddddddhy+::----:+oosssssssssssssssssso/::----:+osssssssssssssssoo+++:------:+sso///+syyyyyyyyyyyyyyyyyhdmmmmmmmmmmmmmdy/---/ossso++++++++++++:::---:////++++++++::----:-:/++++ossssssssyyyyyyhdmhyyyyyyyyyysssssss+::::+os+/:::.mmmmmmN
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            y+/::::::::://///:::::::::::::::-----------::::::::::------:::///////////////::::::::::--------------:///////////////-.-...`.-.---------------://+syo//////////////++++++++osssso+//:--:///////+ossssssssssssssssssssssssssssydddddddddddds/:-----/osoosssssssssssssssss+::----:/oossssssssssssssoo+++:-----:/ossys///+syyyyyyyyyyyyyyyhhdmmmmmmmmmmmmmmdy/---/osso++++++++++++/:::::://///++++++++::----:::/++++osssssssyyyyyyyhddhyyyyyyyyysssssssso/::/+os+:::::ymmmmmM
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            hs/::::::::://///:::::::::::::::----------:::::::::::-----:::////////////////:::::::::---------------:///////////////-.-.......---------------://+oyo//////////++/++++++++ossssssssssso+///////+osssssssssssssssssssssssssssyddddddddddddds+:----/ossoosssssssssssssssso/:-----:+oossssssssssssooo+++:-:::::/+syyhs+//+syyyyyyyyyyyyyyhhdmmmmmmmmmmmmmmmms/--:/oso+++++++++++++/:::::///////++++++/::------:///++osssssssssyyyyyddhyyyyyyyyyysssssssso/::/+so/::::::dmmmmM
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            hy//:::::::///////:::://://:::::--------:::::::::::::----::://////////////////:::/::::---------------://///////////+/-.--...-..---------------:///oso///////////+++++++++osyysssssyyyys+///////+ossssssssssssssssssssssssssyhddddddddddddds+/::-:+ssooossssssssssssssso+::----:/+oossossssssssoo++++/:/:/://osyhddy+/+osyyyyyyyyyyyyyhhdmmmmmmmNmmmmmmmmmy+:-:+oo++++++++++++++//::::///////++++++/::-----::///++osssssssysyyyyhdhyyyyyyyyyyysssssssso/::/ooo/::::::sdmmm.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            hh+/:::::::///////:::////////:::-------::::::::::::::----::://////////////////::::::::---------------:///////////++++-.--...-.---------------:////+so+//////////++++++++oyyyyyssyyyyyyo////////+ossssssssssssssssssssssssyyhdddddddddddddho+::::/osssooosssssssssssssso/::----:+ooooossoosooooo++++//+////+oyhdmmms//+osyyyyyyyyyyyyhhdmmmmmmmmmmmmmmmmmmy+:-:+o+++++++++++++++/::://///////++++++/::------::::/+ossssssssssyyhhhyyyyyyyyyyyysssssssso/::/oo+/::::::shdmd
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            yhs/:::::::///////:://///////::-------::::::::::::::-----::///////////////////:::/::::---------------://////////+++++:.--...-.---------------:////+so+/////////++++++++syyyyyyyyyyyyys+////////+ossssssssssssssssssssssssyhddddddddddddddyo+::://oossooossssssssssssso+::----:/+oooooooooooooo++++/+++///+yhdmmNNms++++syyyyyyyyyyyyhdmmmmmmmmNmmmmmmmmmmy+:-/++++++++++++++++//:::+////////++++++/::------::::/+osssssssyyssyhhyyyyyyyyyyyyssssssssso/::+oo/:::::::syhy/.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            yhy/::::::///////:://////////::------::::::::////:::----::////////////////////////::::---------------:////////+++++++:.--...-.---------------://///os+////////+++++++osyyyyyyyyyyyyyys+////////+ossssssssssssssssssssssso+syhddddddddddddhs+:://++ossooosssssssssssss+:::----:++oooooooooooo++++o+oo++++oydmmNNNmd+/++osyyyyyyyyyyyhdmmmmmmmmmmmmmmmmmmmmy+::/++++++++++++++++/:::+o/////////+++++/:-------::::/+osssssssyysyhhyyyyyyyyyyyyyssssssssso/:/+oo/:::::::syho:-.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            shh+/:::::///////://////////:::-----::::::///////:::----::///:////////////////////::::---------------:////////+++++++/---...-.-------.------://////os+///////+++++++oyyyyyyyhyyyyyyyyo/////////+osssssssssssssssssssssso:--:/+oyhdddddddhyy+//+++++osooosssssssssssso/::----:/++oooooooooo++++osssoo++oydmmNNNNmho/++oosyyyyyyyyyyhdmmmmmmmmmmmmmmmmmmmmdy+::/++++++++++++++++/::/+o/////////++++//::------::::/+osssssssssyhhysyyyyyyyyyyyyssssssssso/:/+o+:::::::/syy/---.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            +yhs/::::://////////////////:::----::/:::////////:::---::///::////////////////////:::/---------------:////////++++++++---..--------...------://////+so/////++++++++syyyyyyhhhhyyyyyys+/////////+ossssssssssssssssssssyyyo/:---://oshddddyys+/++++++oooooososssssssso+::----:/++++ooooooo++++oshyyssssydmNNNNNNmhs++oooosyyyyyyyyyhdmmmmmmmmmmmmmmmmmmmmmdy+//++++++++++++++++/::+++o+////////++++/::--------::::+osssssssyyhyyyssyyyyyyyyyysssssssssso/:/+o/::-----oyys:-----
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /shy/:/::///////////////////:::---:://:://///////:::---::///:://///////////////////::/---------------:///////+++++++++:--..--------...-----::///////oo+//++++++++osyyyyyhhhhhhhhhhys+//////////+osssssssssssssssssssyhddddhyo+/::::/+syyssso+++++/++oooooooossoosoo+:::---:/++++++ooo+++++oshhhyssyhmmNNNNNNNmdddsooooosyyyyyyyyhdmmmmmmmmmmmmmmmmmmmmmmdyo++o+++++++++++++++//osooo+////////++++/:---------:-::+ossssssyyyysssssyyyyyyyyyssssssosssso/:/++:------:syy/-------
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /+yyo//:://////////////////:::::::://:://////////:::---:///::///////://////////////::/---------------:////////++++++++:---.--------..------:////////+o+/++++++++syyyyyyyyyhhhhhhyyyo+//////////+ossssssssssssssssssyhdddddddddhhso/::////+so++++///+ooooooooooooooo/::---:/++++++++++++ooshdhyyyhhmmNNNNNNNNNNNmdsooooosyyyyyyyhhdmmdddddddmmddddmdddddhys++oo++++++++++++++//oys+oo+///////+++++/::--.----::::/+osssssyyyysssssssyyyyyyyssssssoosssso/:/+/:------/sys--------.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //oyy+/////////////////////::::::://::://////////:::--::///:://////:://///////////////---------------://++////++++++++/---.---------.------://///////oo++++++++syyyyyyyyyyyyyyyyyys+//////////+osssssssssssssssssyyddddddddddddddddhyo+::/+/++++//+++o++oooooooooo/::---:/+++++++++++ooyhdddhhhhmmNNNNNNNNNNNNNmhssoooosyyyyyyyhdddmmmmmmNNNNNNNNNNNNNNmdyosso+++++++++++++++oyys+oo++/////++++++/::-------:--:/oossssyyyssssssssssssyyysssssso+osssso::/+/------:oyy:---------`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ///syo/////////////////////::::::///::///////////:::--:///::://///::://///////////////---------------://++////+++++++++:--.------....-----:://///////oo++++++osyyyyyyyyyyyyyyyyyys+///////////+ossssssssssssssssyhdmmmmmdddddddddddddhyyys+/++++///++++++oooooooo+:::--:/+++++++++oosydmmmdhhdmmNNNNNNNNNNNNNNNmyssoooosyyyyyyhmmNNNNNNNNNNNNNNNNNNNNNNNmhhdyooo++++++++++++shhys+oo++/////++++++/:::--:::::::/+oosssyyyssssssssssyssyyyssssso++osssso::++:------/yh+--.--.-.--.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ///+sy+////////////////////:::::////:////////////:::-:://::::/+//:::://///////////////:--------------:/++////++++++++++/-:.-----.....----:::://////+++oo++++syyyyyyyyyyyyyyyyyyyyo/://////////+osssssssssssssssydmmmmmmmmmmmmmmmmdddhyhdddy+++++///++++++++++++++/::--:/+++++++oosyhmmNNmdddmNNNNNNNNNNNNNNNNNNmyssoooosyyyyhdmmNNNNNNNNNNNNNNNNNNNNNNNNmdmmhsoooo++++++o+oyhhhyo+oo++/////++++++/:::--:::::://+osssssyysssssssssssssysssssso+/+sssss+::+/-------oys-.........-.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ////+ys+///////////////////::::://///////////////:::::///::://+//::://+///////////////:--------------:/++////+++++++++++::------......---::://////++++oo++osyyyyyyyyyyyyyyyyyyyys/::://///////+osssssssssssssyyddddddddmmmmmmmmmmmmdhhdddds+++++///+++++++++++++//::::/++++ooosyhdmNNNmmdmmNNNNNNNNNNNNNNNNNNNNdyssoooosyyyhdmmmNNNNNNNNNNNNNNmmmmmmmmmdhhddyooo+++++oooooyddhhyoooo++//////+++++/:::-:::::::/++osssssyysssssssssssssyssssss++/+sssss+://:------:os:-...........
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////+ss//////////////////::::://////////////////::::://::::/+//:::://++///////////////--------------:++/////+++++++++++:------......---::::///////++++oossyyyyyyyyyyyyyyyyyyyys+:::::////////+ossssssssssssyhmmmmmmmmddddddmmmmmmdddddddhs+++++///++++++++++++//::://+++ossyhdmNNNNmmmmNNNNNNNNNNNNNNNNNNNNNNmhysssssssyyhdmddhhysso+++///:::--------.....-:////////////+syhhhyoooo++/////++++++/::--:::////+++ossssyyysssssssssssssyssssso+//osssss/://--....-+s/-............
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////+so/////////////////::::://////////////////::::///::::///::--:/+++++/+///////////--------------:o+/////+++++++++++/::----......---::://////////++syyyyyyyyyyyyyyyyyysssso+::::::///////+osssssssssssyhdmmmmmmmmmmmmmmmmmmmmmddmmmddho+++++///+/+++++++++/:::::/++oshdmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmhysssooooo+/::-..``````
+            `.:::://///::-..-:/+o+oo++++///++++++//:::::::///++++ossssysysssssssssssssssssso+///osssso/:/:-....-/o+-.............
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ///////+so////////////////:::://////////////////::::://::::///::---:/+++++++++/////////:-------------/o+/////++++++++++++::---.......---:://////////++syyyyyyyyyyyyyysssssssyys/:::-::://////+osssssssssyyhmmmmmmmmmmmmmmmmmmmmmmmmmmmdddy++/+++/////+/++++++//:::/+++shmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdyyysso+/:-``
+            ```
+            `.-:::::::::-...-:+oo+osoo++//+++++++/:::::::////++++osssyyssssssssssssssssssso++//+ssssso:::-.....:++-.............`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ////////+so//////////////::::://////////////////::::://:::://::----:/++++++++++////////:------------:/+//////++++++++++++/:---........--://////////+osyyyyyyyyyyyysssssyyyyyys+::::-::://////+ossssssssyhdmmmmmmmmmmmmmmmmmmmmmmmmmmmmddds+//+++/////+++++++//:::/+++sdNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmhyyyyso/-.`
+            `:ss/--////////////+syhddhossoo+++/+++++++/:::::://+//+++ossssyysssssssssssssosssss+/::/+sssss+:::.....-/+-..............
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////+oo/////////////::::://////////////////::::///::::/::-----:/+++++++++++////:///------------:++//////+++++++++++++::--........-://///////+osyyyyyyyyyyyyyyyyyyyyyyyyyo/::::-::://///+osssssssyyhmmmmmmmmmmmmmmmmmddddhddmmmmmmddho+///+///////+++++//::/+++oymNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmhhyyyss+/-----...`
+            `./mMMNh+ooooooosyhhhhddddddsssoo++++++++++//:::/::////++++ossssysyssssssssssso+ssss+//:::+sssso/-:-....-//-..............`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////+oo///////////::::://////////////////::::://::::::-------:/++++++++++////::/+/:-----------/o+/////++++ooo+++++++/:-.........-/////////+oyyyyyyyyyyyyyyyyyyyyyyyyyys/::::::::://///+ossssssyyhddhhhhyyyysoo+++//::--.-odddddmmdho+//////////+++++/////+++ohmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdhhhyyyysoo++++/:.
+            `:/sNMMMNy:+oooosyhhhhhddddddyysso++++++++o+//:://://///++++osssyyyssssssssssso++sss+//:::/osssso:--.....:/-..............`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ///////////+oo//////////::::://////////////////::::///:::::--------:+++++++++++////::/++/:---------:+o//////++++ooo++++++++/-.........-///////+osyyyyyyyyyyyyyyyyyyyyyyyyyhy+/::::::::://///+ossooo+/::--..```````
+            ```````-ymmmmmmdy++//////////++++////++++sdNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmddhhhhhysoo+++/-`
+            .::+dMMMy-:oossyyhhhhhhdddddhhyso+++++++oo+//://///++++++++ossyyyysssssssssso+/+sso//::::/osssso:--....:/-...............
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ////////////+oo/////////::::://///////////////::::://:::::------.--:+++++++++++////::/++/:--:------/oo/////+++++oooo++++++++:.........-//////+syyyyyyyyyyyyyyyyyyyyyyyyyyyyo/::::--::::////+oooo+/-`
+            ``..odmmmmmds+///////////+++////+++osdNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdddddddysoo+++-`
+            .ohy:../osyyyyhhhhhdddddhhyyo++++++ooo+///////+++++++++ossyyyyssssoossso+//+so/::::::+ssssss+:....::..``````........`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////////+++//////::::://////////////////::::://::------------/++++++++++/://:--:+++/:-::-----/so////++++++oooo++++++++:-........-:///+syyyyyyyyyyyyyyyyyyyssssoo+/::----------:::////+oo+/-`
+            ````..--:sdmmmmmho++/////////+++///++++oymNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmhysso++:` `--`
+            `..````-+yyyyyyhhhhdddddhhhs+++++osooo////////+++++++++ossyyysssssooooo+///+o/::::::/osssssss+-..--.````````````````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ///////////////+++/////:::::://///////////////:::://:-----.--------/++++++++++/::/::-:/+++/::::-:-:+so///+++++++++o+oo++++++/-........-://+syyyyyyyyyyyyssoo+/:--.``
+            `..-------:://///++/-` ```
+            `..-:://+osshdddmmmmmmdso++////////+++//+++++ohNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmdhyysoo/`
+            -::.
+            `..`````-syyyyyhhhhddddddhys++++oyyooo///////++++++++++osssssssssooooo+/:/+++:::::::+ssssoosss+--.`````````````````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ////////////////+++////::::::////////////////::::://::-....---...--/++++++++++/::/::--/+++/::::-:-:+so//+++++++++oooooo++++++-........-:/++syyyyyssso+/:-.```
+            `..--------:://////-`
+            `ommd+``:oooosssyyhhdddmmmmmmho+++//////++++++++++oymNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdhhysso-
+            ` `+yyyyyhhhddddmddhyoo+oshdsos+///////+++++++++oosssssssoooooo+/::/++:/:::::/ssssooossss+-`````````````````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////////////++//:::::::////////////////::::://::---.---....--/+++++++++/::::::--:++++/:::::::os+/+++++++o++ooooooo+++++/.......-:/+++osso+/:-.`````
+            `...--------::/::-.` `-mMMMMd.
+            -+oosssyyhhddmmmmmmmyo++++/+++++++++++++ohNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdhhyys+`
+            :yyyyhhhddddmmdhhsoooshddsos//+//////++++++++oosssssooooooo+/:::++:::::-:/osssso+osyyys/.````````````````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ///////////////////++/::::::://://///////////:::://:---..........-:/+++++++++/:-:::---:/++++/:::::/syo/+++++++ooooooooooo++++/-......-://:::--.```````````
+            ````.-----------:::-.` `.-yNMMMMh
+            .osssyyhhddmmmmNNmdsooo++++++++++++++oymNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdhhhyy:`
+            -shhhhddddddmmddhsssydddhsso//+/////+//+++++ooosoosoooooo+/::::/+::::---:+sssso+/oyyyyss:.``````````````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ///////////////////////::::::///////////////::::://:--...........-:/+++++++++/:-:::----/+++++/::::/syo/+++++++oooooooooooo++++:-....---:..````````````````......----::::::------------.`
+            ``.+dNMMd`
+            .syyyhhddmmmmNNNmhsoooo+++++++++++oshmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmddhhhs-
+            `+hhdddddddmmddhysyhmmmdhss+/+//////+////+++oooooooo++oo+/::--://:::---:/sssss+//oyyyyyso-`````````````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////////////////////::://:////////////::::///--............-:/+++++++++/:-:::----:/++++//:::/syo/+++++++oooosssssssso+++/--...-....`........-----::::::::::::::::::----.--....``
+            ` .oys-
+            `-yhhhhdmmmmNNNNmhsooooo++++++++ooymNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMNNNNNNNNNNNNNNNmmdddhhs. `
+            /hddddddddmmmdhyhdmmmmdyss+++/////+++++++++ooooooo+++++:::---:/-:----:/osssso+//oyyyyyys+.```````````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////:////::://:////////////::::///--............-:/++++++++/::--::-----/+++++/////shs//++++++osoossssssssso+++---..---/////++++++////////////::////::::-.......````
+            .:::-` `.`
+            `:hhdddmmmNNNNNmhssooooo++ooooosdNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMNNNNNNNNNNNNNNmmdddho. `````
+            -hddddddmmmmmdddmmmmmmmyys+++/+///+++++++++oooooo+++++::::--::::----:/osssso+//+syyyyyyys:``````````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////////////////////:::::://////////////////:--............-:/++++++++/::--::-----:/+++++////shs//++++++ossssssssssssso++/--..--:/+++ossoo++++////////////////:::-.....```
+            -+oo+. `oddmmmmNNNNNNmysssoooooooooshmNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNmdddhs.
+            ``````` -hmdddddmmmmmmmmmmmmmmdyys+++++///++++++++ooooooo++++::----:::::----:+sssso////+syyyyyyyso-````````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////////////////////::::::://///////////////:..............-:/++++++++/:---::------:++++++///shy+/++++++ossssssssssssssoo+::----:/+++osssooo++++///////////++////..```
+            `.--. -dmmmmNNNNNNNdyssssooooossymNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNMMNNNNmmddy- `
+            ```````` .yNmmdmdmmmmmmmmmmmmmmdyys++++++//++++++++oooooo++++/::---:::::----:+ssss+/::::+syyyyyyyys:.``````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////////////////////::::::://///////////////:.-............-:/++++++++/:----:----.--/++++++//ohho/++++++osssssssyyssyyssoo/:----:/+ooosyssoooo++++++++++ooooo+++:```
+            `smmmNNNNNNNNdyysssssssshdNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNmmmmd: ```
+            `````````` `yNNmmmmmmmmmmmmmmmmmmdhho+++++++++++++++oooooo+++//::---:::::---::+sssso/:::::oyyyyyyyyys+.`````
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////:::::::://///////////////-..............-:+++++++++::----:-----.-:/++++++/ohhs//+++++ossssssyyyyyyyysso+::---:++oosyyyysssssooossssssssssoooo.`
+            :mmNNNNNNNNmhyyysssyyhdNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNmmmm+` ````
+            ``````````` `sNNNmmmmmmmmmmmmmmmmmmhho++++++++++++++++ooo++++/:::--::::::----:+sssso/:::::/oyyyyyyyysso:.``
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////::::::::////////////////:-..............-:/++++++++/:----:----...-/+++++++oyhy+/++++++ssssssyyyyyyyyyyss+::--:/+oooyhhyyyysssssssssssssssoooo`
+            .dNNNNNNNNNmhhyyyyyhdNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNmmmms. ``````
+            `...``````` `yNNNNmmmmmmmmmmmmmmmmmhho++++++++++++++++o+++++/::::--:/:::::::/osssss+:::::/+syyyyyyyyyss+/-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////::::::::////////////////:...............-:/++++++++:------:---....-/++++++oyhy+//+++++ssysssyyyyyyyyyyyss+/:::/ooosyhhhyyyysssssssssssssssss+`
+            `sNNNNNNNNNddhhhhdmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNmmmmy- ```````
+            `.---.`````` `yNNNNmmmmNNmmmmmmmmmmmdy+++++++////+++++++++++/:::::::/:::::::+osssss+::::::/osyyyyyyyyyysoo+:
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////::::::::////////////////-...............-:/++++++++:-..-.-----....-:+++++++shho//+++++osysssyyyyyyyyyyyyss+/::+osssyhhhhhyyysssssssssssssssso
+            ``` `/NNNNNNNNmmddddmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmmmmy:`
+            ````````` `----....````
+            .hNNNNNmmmNNNmmmmmmmmmmdy+++++++///++++++++++/::::::::/::::::/+ossssso/:::::/oosyyyyyyyyyyyso+o
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////::::::::///////////////:................-:/++++++++:-....----.-....-/++++++ohhy+//++++osyyssyyyyyyyyyyyyyys+/:/osssyhhhhhhyyyysssssssssssssss
+            `.`````
+            -mNNNNNNNmmmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNmmmhooydmmdho-````...`
+            `.----.....```
+            `:mNNNNNmmNNNNmmmmmmmmmmds+++++++///++++++++//:::::::///:::::/+ossssso/:::::/+oosyyyyyyyyyyyyso+:
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////::::::::///////////////-................-:/++++++++:-.....-----.....-/+//+++shho//++++osyyssyyyyyyyyyyyyyyso+/:+sssyyhhhhhhhyyyyyyyyyyyyyyyyo`
+            `--.``````
+            -dNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNmmmmNMMMMMMMd-```..--......--------....```
+            `sNNNNNNmmNNNNmmmmmmmmmmho+++++++/+++++++++//::::::////::::/++osooooo+//:::/+ooosyyyyyyyyyyyyso++
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////:::::::://////////////:-.................:/++++++++:-.....----......-:////++oyhy+//+++osyyyysyyyyyyyyyyyyyyso+//osssyhhhhhhhhhyyyyyyyyyyyyyys`
+            `` `---..````````
+            .hNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmmNmNMMMMMMNh-`..-:///:::::::-::---....````-dMMNNNNNNNNNNmmmmmmmmmmho++++++++/+++++++//::::://///::://++oooosoo+//////+oooosyyyyyyyyyyyyso++
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////:::::::::////////////:--..`..............-/////++++:--....-----......-://:/+oyhhs+/++++osyysssyyyyyyyyyyyyyyso+/+sssyhhhhhhhhhhhhyyyyyyyyyyys`
+            `````` .----..```````
+            .yNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNmysyyys+:-../osyyyyyso+///:::-----..````sNMNNNNNNNNNNmmmmmmmmmmmyo+++++++++++++++//:::://++//:::/+++ooooooo++/////++oooossyyyyyyyyyyyyso+
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////:::::::::////////////--...```............-////////+:-......-----......-::::/+oyhyo/++++osyysssyyyyyyyyyyyyyyyso++ossyhhhhhhhhhhhhhhhhhhhhhhhy`
+            `````..` .------..``````
+            .yNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNd+.```.-:+syyhhhhhhhhysooo++/:---.````/dNNNNNNNNNNNNNmmmmmmmmmmsoo+++++++++++++/::::///++/////++++o++oooo++////++++oooossyyyyyyyyyyyyso++
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////:::::::::///////////:--...````...........-////////+:-......------......-::::/+shhs++++++ssyysssyyyyyyyyyyyyyyyys++ssyyhhhhhhhhhhhhhhhhddddhhh-
+            ``````.---`` .--------..`````
+            .hNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNd+.``.:+oyyyhhhhhhhhyyssssso+/:-.```:ymNNNNNNNNNNNNmmmmmmmmmmdsoo+++++++++++//::://+++//////+++++++oooo++////oossssssssyyyyyyyyyhhyyso++
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////////////::::::::://////////:---...````...........-:///////+:-...`...-----.......--:::/oyhho+++++osyyysssyyyyyyyyyyyyyyyysoossyhhhhhhhhhhhhhhhhdddddddo`
+            ```..``````..----.`` ``.----------...```
+            `.dMNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo.``.:+oyyhhhhhhhhyysssssso+/-...-+dNMNNNNNNNNNNNNmmmmmmmmmhsoooo++++ooo+//:://++++////+++++o+++oooo++///++syyyyyyyyyyyyyyyyyhhhhyso++
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ///////////////////++////::::::::://///////:---....````...........-:///////+/...````.------........-:::/oyhyo+++++osyysssyyyyyyyyyyyyyyyyysssyyyhhhhhhhhhhhhhhhdddddddd::+hddddhs-```..-------....-::::::::::::--..``````:NMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy:``.::/+oyyyyyyysssssssso+/-..-:yNMNNNNNNNNNNNNNNNNmmmmmdysoooo+++oooo+:://++++++++++++++++o+oossso++++++sssyyyyyyyyyyyyyyhhdddhyo++
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////////////++++///::::::::://///////----....````...........-:///////+/...````..------........---:/shhyo+++++ssyysssyyyyyyyyyyyyyhdhhhyyyyhhhhhhhhhhhhhhhddddddmNNNMMMMMMMNy.`..------::://+oooooo+++///::--..`````+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMd/...---:+osssssssssssso+/:-.-:sNMNNNNNNNNNNNNNNNmmNNNNmdysooo+/+ooooo+//++++++++++++++++++oosssssssssooosssyyyyyyyyyyyyyhhdddddhs++:
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////+++++///:::::::::////////:----...``````..........-:///////++...`````.-------.........--:/shhs+++++osyyysssyyyyyyyyyyyydmddmdhyyyhhhhhhhhhhhhhhddddddmMMMMMMMNNdy/-...--::::/+ossssssssssssoo++/::---.``:dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMNy:...--:/+ooooosoooo+/::--:+dNMNNNNNNNNNNNNNNNNNNNNmNmhysoo+/+osssyy++++++++++++++++++++++sssssssssyysssysyyyyyyyyyyyyhdddmmmmdho+o
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////////++++++//:::::::::////////-.--....``````...........-///////+o-..`````..-------..........-:+shho+++++osyyysssyyyyhhhhhyhdmdmmmdhyyyhhhhhhhhhhhhhhddddmNNMMNys+:-.------://+osyhhhhhyysssssssssoo+/::::..-sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMNy+-----::///////:::::/+sdNMNNNNNNNNNNNNNNNNNNNNNNNNdyyso+/+ossydmh++++++++++++++++++++++oyssssyyyyyyyyyyyyyyyyyyyyyhdddmmmmmmdyo+
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ////////////////+++++++//:::::::::///////:..--..`.```````.........--///////+s:..``````.--------..........--+yhyo+++++osyyyyyhdmmmmmmmmmmmmmmmmdhyyyhhhhhhhhdddhdddddmNNNMNs.````.--:/+syhhhhdhdddhhhyssssssssso+/::/:-:sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMNmyo/:::::::::::/+shmNMMMNNNNNNNNNNNNNNNNNNNNNNNNmdyso+++syyhmNmo++++++++++++++++++++++oysssyyyyyyyyyyyyyyyyyyyyhhdmmdmmmmmmmhss
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////////+/+++++++//:::::::::///////-..--....```````......--.--////////o/..``````..-----.--...........-+yhyo+++++osyhdmmmmmmmmmmmmmmmmmmmmdhyyhhhhhhhhdddddddddmNNNMMMy-````.-/syhhhhhhhddddhhhyssssssssso+/://::yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNmhhyyyyyhdmNMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNmhyo+++syhdmNmh++++++++++++++++++++++++sysyyyyyyyyyyyyyyyyyyyhdmmmmmmmmmmmmmdhy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////++/+++++++///::::::::://///:...-....````````......-.---:///////o+..``````..--..................-+yhs++++++sdmmmmmmmmmmmmmmmmmmmmmmmdyyyhhhhhhdddddddddmmNNNMMMMmo-```./syhhhhhhhdddhhhyyssssssssoo+::://yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNmdyo++oyhdmNNNdo++++++++++++++o+++++++ooshyyyyyyyyyyyyyyyyyyyhdmmmmmmmmmmmmmmmdd
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /////////////++++++++++///:::::::://////-..--...`````````.........--:///////os-..``````..--................`.-+yho++++ohmmmmmmmmmmmmmmmmmmmmmmmmmhyyhhhhhhdddddddddmmNNNMMMMMNh+-..-/syyhhhhhhhhhyysssssssoooo+////+yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmhs++ohdmNNNNmy++++++++++++++ooo++++oooooyhyyyyyyyyyyyyyyyyyyhhhdmmmmmmmmmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ////////////+++++oo++++///::::::::/:///:........`````````......-----:///////+s:..```````..--................`..+yyo+++ydddmmmmmmmmmmmmmmmmmmmmmmmdhyyhhhhhhhddddddddmmNNNNMMMMMNhs/---:///++/+oo+++ssooso+/://////odNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmhsoosdmmNNNNNdo++++++++++++++osoo++ooooooydysyyyyyyyyyyyyyyyyyyhhddmmmmmmmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ////////////+++ooooooo+////:::::::/:///-........``````````......----:///////+yo...``````..-.................```.+yyo++yhhddmmmmmmmmmmmmmmmmmmdmmmddhyhhhhhhhdddddddmmmmNNNNMMMMMMNmyo:-------://:-://::/+/---:/+ohmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdyosydmNNNNNNms+++++++++++++++osso++ooooooshhsssyyyyyyyyyyyyyyyyyyhhddmmmmmmmmmmm/
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ///////////+o++ooooooo++///:::::::::://-........``````````......-----////////ss-..```````...............`....```./yyo+syyhhddmmmmmmmmmmmmmmmmdhddhhyyyhhhhhhdddddmmmmmmmNNNNNMMMMMMMNmhyo//::://---::--:///::/sdNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmNNmmdysshmNNNNNNNNh++++++++++++++++osssooooooooshdysssyyyyyyyyyyyyyyyyyyhhhddmmmmmmmmmy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////////++oo+oooooooo+///::::::::::/:.........``````````......-----:///////oy/..```````................``...```./syo+osyyhhdddddddmmmmmmmdhhyhhyyyyyyhhhhhddddddmmmmmmmmNNNNNMMMMMMMMMNmdysoo+/:-://:/+oshdmNMMMNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmdyyydmNNNNNNNNms++++++++++++++++osssoooooooosddhooossyyyyyyyyyyyyyyyyyyyhhddmmmmddd
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////++//+oooooooossso+///::::::::::/-.........``````````......-----:///////+so...```````.....................```.:oso+osssssyyyyyyyhddmdhyyyyyyyyyyyyhhhhhhddddddmmmmmmmmmNNNNNMMMMMMMMMMMNNNmmddddddmmNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmddNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmNNNNNNmdhhdmmNNNNNNNNNh++++++++++++++++osssssoooosooshddsoosssyyyyyyyyyyyyyyyyyyyyyhhhysooo
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            //////+++/+ooooosssssso+////::::::::::-.........``````````.......-----:///////ss-..```````....................`````.-+so++++++ossyysssyyhyyyyyyyyyyyyyyyhhhhhdddddddmmmmmmmmmmmNNNNNMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmdyhNNNNNNNNNNMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdddmmNNNNNNNNNNdo++++++++++++++++ossssssssssssshddsoossssyyyyyyyyyyyyyyyyyyyyyyyso+++
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :////++++++ooosssssssso+////::::::::::..........``````````.......--::::///////oy/.`````````....................``````.:oo+++++++osyysssssyyyyyyyyyyyyhhyhhhhhdddddddmmmmmmmmmmmmmmmNNNNNNNNNNNNMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmhshNNNNNNNNNNMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdddmNNNNNNNNNNNNy++++++++++++++++osssssssssssssshddysssssssyyyyyyyyyyyyyyyyyyyyyyyso++
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `:////++++osoosssyyssso++////:::::::::.........```````````........-::::://////+yo.`.```````...................````````.-/ss++++++ossysssssyyyyyyyyyyhhhhhhhhhdddddddmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmdhmNNNNNNNNNNMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdmNNNNNNNNNNNNNdo++++++++++++++++osssssssssssssshddysssssssssyyyyyyyyyyyyyyyyyyyyyysoo`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``:///++++osoossyyssssso+////::::::::-........````````````........-:::::///////sy-.`.```````.................``````````..:os+++++++osyyssssyyyyyyyyyyhhhhhhhhddddddddmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmNNNNNNNNNMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmNNNNNNNNNNNNNNNy++++++++++++++++ossssssssssssssshddhsssssssssssyyyyyyyyyyyyyyyyyyyyyyyy/`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ```://++++osooyhysssssso+////::::::::-........`````````````......:oss+::://////oy+.`````````.................````````````.-/oo++++++ossyssssssyyyyyyyyhhhhhddddddddddmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmNNNNNNNNNMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmo++++++++++++++++ossssssssssssssshddhssssysssssssyyyyyyyyyyyyyyyyyyyyyyyyh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ````://+++ososhyssssssso+////::::::::-.`....```````````````...-smNNNNd+:://////+ss:.`````````.................````````````..:+so++++++ossyssssssssyyyyyhhhddddddddddddmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmNNNNNNNNNMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNyo+++++++++++++++osssssssssssssssydddhssssyyyssyssosyyyyyyyyyyyyyyyyyyyyyyyy`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `````-/++oossyysssssssso+////::::::::..`....```````````````../dNNNNNNmy/:://++++oyo.``````````................`````````````..-/ooo++++++ossssosssssyyyyyhhddddddddddddmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmNNNNNNNNNNMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNho+++++++++++++++ossssssssssssssssyddmhssssyyyyyyssoosyyyyyyyyyyyyyyyyyyyyyyyyo
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``````/++osyhyssssssssso+/////::::::-..`....````````````````:dNNNNNNdhyo/::///+++os:.`````````.................``````````````.-:+ooo++++++oossooosssyyyyyhhdddddddddddmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmNNNNNNNNNNNNMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdo+++++++++++++++osssssssssssssssssydddhssssyyyyyyysso+syyyyyyyyyyyyyyyyyyyyyyyy+
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``````/++oyhhyssssssssso+/////::::::-..`....```````````````-yNNNNNmdysso+/:////+++oo-.`````````.................``````````````..:/++oo++++++oossooossyyyyyyhddddddddddmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmso++++++++++++++osssssssssssssssssshdddhssssyyyyyyyyso+osyyyyyyyyyyyyyyyyyyyyyyyh-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``````+++yhhysssssssssso+//////:::::-.``...````````````````+mNNNNNdysoo+++////+++++o+-..`````````............```````````````````.-:+++oo+++++++oooooossssssyhdddddddddmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmso++++++++++++++ossssssssssssssssysyhdddyssssyyyyyyyyso+osyyyyyyyyyyyyyyyyyyyyyyyyy-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `````-++shdysssssysssssso+/////:::::-.``...```````````````.yNNNNNmyso++++++////++++oo/...`````````.........``````...`````````````.-:/++++++++++++ooooosssssssyhdddddddmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmyo+++++++++++++oossssssssssssssssyyyyhdddyysssyyyyyyyyyso+sssyyyyyyyyyyyyyyyyyyyyyyyy-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `````:+ohdhssssssyyyyysso+/////:::::-.``..````````````````-dNNNNNdso+++++oo++//+++++oo:...````````....................```````````...:/++++++++++++++oooossssssyhddddddmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmyo++++++++++++oosssssssssssssssssyyyyyddddyysssyyyyyyyyyso+osssyyyyyyyyyyyyyyyyyyyyyyyy-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `````/+yhhyssssssyyyyysso+//////::::-.```.````````````````/mNNNNmyo+++++ooooo+//+++++o+:...```````......................`````........-:/+++++++++++++++oosssssssyhddddmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmyo+++ooooo++oosyhyssssssssssssssssyyyyhddmhyyyysyyyyyyyyyyooossssyyyyyyyyyyyyyyyyyyyyyyyy.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ````.+shdhssssyyyyyyyyysso//////::::-.````````````````````/NNNNNmyo+++oooooooo++++++++o+-...``````.....................................:/++++++++++++++++osssssssyhdddmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmyooooosoooooooydNmyssssssssssssssssyyyyhdddhyyyyyyyyyyyyyyysooossssyyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ````-ohddyssysyyyyyyyyysso+/////::::-.````````````````````/NNNNNms+++oooooooooo++++++++o/-...``````.....................................-:++++++++++++++++ossssssssyhdmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmyosssssssssosydmNNdssssssssssssssssyyyyhddddyyyyyyyyyyyyyyyysooosssosyyyyyyyyyyyyyyyyyyyyyyy+
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ````:yhhhssyyyyyyyyyyyyyso+//////:::-.````````````````````/NNNNNmyo+oooooooooooo+++++++++/-...``````......................................-/+++++++++++++++oosssssssyydmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdhyyyyyyssssyydNNNNNyssssssssssssssssyyyyhdmmhyyyyyyyyyyyyyyyyyooossooosyyyyyyyyyyyyyyyyyyyyyyy/
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ````/yhhssyyyyyyyyyyyyyysso+/////:::-..```````````````````:mNNNNNhooooooossssssso+++++++++/-...`````........................................:/+++++++++++++++osssssssyyhdmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMNNNNNNNmddddhhyyyyydmNNNNNNmyssssssssssssssssyyyhddddyyyyyyyyyyyyyyyyyysooooo++osyyyyyyyyyyyyyyyyyyyyyyy`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ```.shhyssyhyyyyyyyyyyyyyso+/////:---..```````````````````.yNNNNNdsoooosssssssssso+++++++++/:....````.........................................:/++++++++++++++ossssssssyydmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNmddddhhhhhmNNNNNNNNNdssssssssssssssssyyyyhdddhyyysysssyyyyyyyyyysoooo++++oyyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ```-ydhsssyhyyyyyyyyyyyyyso+//////-.-..````````````````````+NNNNNNhsssssssssssssssoo+++++++++:-...```...........................................-/+++++++++++++ossssssssyyhdmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNmmmddhdddmNNNNNNNNNNNNyssssssssssssssssyyyhddddyyyysysssyyyyyyyyyyyso+++++++yyyyyyyyyyyyyyyyyyyyyyyy/
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ```ohdhossyhyyyyyyyyyyyyysso//////:.`.`````````````````````-hNNNNNdysssssssssssssssso+++++++++/--..```............................................-/+++++++++++++osssssyyyyyhmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNmmdddddmNNNNNNNNNNNNNNNmsssssssssssssssssyyyddddhyyyysysssyyyyyyyyyyyso+++++++yyyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ```sddyossyhyyyyyyyyyyyyysso+//////-.```````````````````````+NNNNNmhysssssssssssssssoo+++++++++/:--.................................................:/++++++++++++ossssssyyyyhdmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNmdddmmNNNNMMMMMMNNNNNNNNNhssssssssssssssssyyyhddddyyyyyyyssyyyyyyyyyyyyso++++++
+            yyyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ``-ydhoosyyhyyyyyyyyyyyyyyso+//////:.```````````````````````.sNNNNmdhyysssssssssssssooso++++++++//:-.................................................-:/+++++++++++ossssssyyyyyhdmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMNmsssssssssssssssssyyhddddhyyyyyyyssyyyyyyyyyyyysoo+++-
+            oyyyyyyyyyyyyyyyyyyyyyyyy-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `.shhhoosyhhysyyyyyyyyyyyyso+//////:-.```````````````````````-hNNNmdhhyyyyysssssssssoooso+++++++++/::-.................................................-/++++++++++++ossssyyyyyyyyhdmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMNysssssssssssssssssyyhdmmhyyyyyyyyssyyyyyyyyyyyyyso+o+
+            hyyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            dmddy+osyhdysyyyyyyyyyyyyss++/////::-````````````````````````-hNNmddhhyyyyyyyysssssooosso+++++++++//:-..................................................:/++++++++++++osssyyyyyyyyyyyhhddddmmmmmNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmy+:-:omMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdsssssssssssssssssyyhddddyyyyyyyyyssyyyyyyyyyyyyyso:`
+            +yyyyyyyyyyyyyyyyyyyyyyyy/
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /mmmds+osyhdhsyyyyyyyyyyyysso+/////:::.````````````````````````-hNNmdddhhyyyyyyyyssssoosssso+++++++++//:-.................................................-:/+++++++++++osssyyyyyyyyyyyyyhhhhhhdddddddmmmmNNNNNNNNNNNNNNMMMMMMMMMMNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNms:-...../dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmsssssssssssssssssyyyhdddhyyyyyyyyyyyyyyyyyyyyyyyyys
+            yyyyyyyyyyyyyyyyyyyyyyyyh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            Mmmmho+osyhdhsyyyyyyyyyyyyyso+/////:-:-`````````````````````````.ommmdddhhhyyyyyyysssssssssso++++++++++//-......---.........................................-:/+++++++++++ossyyyyyyyyyyyyyyhhhhhhddddmmmNNNNNNNNNNNNNNNNMMMMMNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNms:.........:hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNysssssssssssssssssyyhdddhyyyyyyysyyssssyyyyyyyyyyyys
+            /yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            Mmmmh+++syhdhsyyyyyyyyyyyyyyyso+///:-:-.``````````````````````````/hmmddddhhhhhyyyyysssssssssso+++++++++//:--.....::-.........................................-:/++++++++++osyyyyyyyyyyyyyyyhhddmmmNNNNNNNNNNNNNNNNNNNNNNNNNNmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms:............-hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNhsssssssssssssssssyyhdddhhyyyyyyyyysssyyyyyyyyyyyyyys
+            yyyyyyyyyyyyyyyyyyyyyyyy.
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            Nmmmh+++syhdhyyyyyyyyyhhhyhddhhyoo++://-.``````````````````````````.+hddddddhhhhhhyyyyssssyyyyys++++++++++///:-....-:/:-........................................-:/+++++oossyhhdddhhyyyyyyyyhhdmNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh/...............-hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdossssssssssssssssyyhdddhhyyyyyyyyyssssssyyyyyyyyyyyys
+            yyyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmh+++oyhddysyyyyyhhdddhhddhhyssso//:-.````````````````````````````-+hddddddddhhhhhhhhyyhhhhhhyo++++++++++///:-....-//:--........................................-:/++++++oosyhddddhhyyyyyyyhhdmmNNNNNNNNmmmmmmddddddddmmmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd+-.................:mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd+ssssssssssssssssyyhdddhyyyyyyyyyyyyssssyyyyyyyyyyyyyo
+            :yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmh+++oyhddysyyyyhddddddhddhyysoo+:-:-.``````````````````````````````.+yddddddddddddhhhhhhhhhhhhyo+++++++++////:-...-:///:-.......................................---:/++++++++osyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhddddmmNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms:....................+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd+sssssssssssssssssyhddhhyyyyyyyyyssysssssyyyyyyyyyyyyy+
+            yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmh+++oshddysyyyhddddddddddhyso+//:-:--.```````````````````````````````.:sdmmmmmmmmmmdddddddddddmdyo+++++++++////:-...-:://::--.....................................----:/+++++++oosyyyyyyyyyyyyyyyyyyyhhhhhhhhhddmmNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdo///:::--..............-hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh:ossssssssssssssssyhdhhyyyyyyyyyyyyyyssysssyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmh+++osydddyhhhddddddddhyyso+////:--:-.``````````````````````````````````-odNNNNNNNNNNNmmmmmNNNNNmho++++++++++//+/:-...::://///::-...............................---------:/+++++++oosyyyyyyyyyyyyyyyyyyhhhhddmmNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmy+//////////::-.........../NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy:+sssssssssssssssyyhdhyyyyyyyyyyyyssyssssssyyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmdo+++sydmdhhhdddddddhhyyyso+/////--:--.```````````````````````````````````.+ymNNNNNNNNNNNNNNNNNNNmdyo++/+++++++++++/-..-://///////::--...........................-----------:/++++++++ossyyyyyyyyyyyyyyhhhdmNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdo/////////////////:-.......-sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs-/sssssssssssssssyyhhhyyyyyyyysyyyysssssssssyyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmoo++oydmddddddddhhhyyyyysso/////:--:-.`````````````````````````````````````../oydmNNNNNNNNNNNNNNNmdys+///+++++++++++/:-.-/++++////+++//::---...................---------------://+++++++oossyyyhhhdddmmmdddmmmNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNms+/////////////////////:-.....:mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+-:ossosssssssssssyyhhyyyyyyyyyysyyysysyssssssyyyyyyyyyyyy+
+            yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmooo+oydmmdhdddhhhyyyyyyysso+////:--:--.``````````````````````````````````````....-:+ossyhhddddddhhyo+/////++++++++++++//:-:+ooooo++++++++++++//::-----......---------------------:://++oooosyhdmmNNNNNNNNNNNNmmmNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdo+++++++++++++++++////////:-...-oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh:--+ooosssssssssssyyyyyyyyyyyyyyssyyyssssssssssyyyyyyyyyyyy
+            syyyyyyyyyyyyyyyyyyyyyyy`
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmsooooyddmdhhhhhyyyyyyyyyyso+/////-----..``````````````````````````````````````......................``..:///+++++++++++++/::/+oooooooooooooossssssoo++//:::-----------------::::///+osyhddmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmhsooooooooooooooooooo++++//////:..:mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo-..:oooosssssssssosyyyyyyyyyyyyyysyyyssssssssssyyyyyyyyyyyyy
+            hyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmysoooshdddyyhyyyyyyyyyyyysso+////:--:--.```````````````````````````````````````......````````````````````.-://++++++++++++++//+ooooooooooooossssssyyyyyyyyyyssssoooooooossssyyhhddmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMNmyooooooooooooooooooooooooo++/////:--yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd/--.-+o+ooosssssso++syyyyyyyyyyyyyssyyyssssssssssyyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmdsssosydddysyyyyyyyyyyyyysso+/////-----..```````````````````````````````````````.....``````````````````````.-://++++++++++++++++ooooooooooossssssyyyyyhhhhhhhddddddddmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMNdsoooooooooooooooooooooooooooo+++////:oNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms:--..:+/+ooooooo+/:-+yyyyyyyyyyyyyysyyysssssssssssyyyyyyyyyyyy+
+            yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            dmmmmmsssssyhddhssyyyyyyyyyyyyysso/////:-----.````````````````````````````````````````````````````````````````````.-:://+++++++++++++++ooooooossssssssyyyyyhhhhhhhdddddddddmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMNdsooooooooooooooooooooooooooooooo++////+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh/--...://++oo++++/-..:syyyyyyyyyyyyyssyyssssssssssssyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmmsssssyhddhysyyyyyyyyyyyyysso+/////-.---..`````````````````````````````````````````````````````````````````````.-:::///+++++++++++++ooossssssssssyyyyyhhhhhhdddddddddddmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMNdsoooooooooooooooooooooooooooooooooo+///+hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdo:--...-///+++++/:-...-+yyyyyyyyyyyyyssyyysssssssssssyyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            Mmmmmmyssssshdddhssyyyyyyyyyyyyysoo/////:-.--...```````````````````````````````````````...````````````````````````````.-::-::///+++++++++++oossssssssyyyyyyhhhhhhddddddddddddmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMmsooooooooooooooooooooooooooooooooooo++//omMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmy/:-....-:://////:-...../syyyyyyyyyyyyyssyyssssssssssssyyyyyyyyyyyy-
+            yyyyyyyyyyyyyyyyyyyyyyyh
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            hmmmmmhsssssyddddysyyyyyyyyyyyyysso+/////:.---...``````````````````````````````````````....`````````````````````````````.-/:---:://++++++++++ossssyyyyyyyyhhhhhhhddddddddddddmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMNyooooooooooooooooooooooooooooooooooooo+/+sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+:-.....-::////:-.......-syyyyyyyyyyyyyssyyyssssssssssssyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmmsssssyhdddhyyyyyyyyyyyyyyyso+//////-.---..````````````````````````````````......`....``````````````````````````````.:+/-..--://+++++++++ossyyyyyyyyhhhhhhhddddddddddmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMmsooooooooooooooooooooooooooooooooooooo+++yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdo:-......---::::-.........+yyyyyyyyyyyyyssyyyssssssssssssyyyyyyyyyyyy/
+            /yyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em"> dmmmmm
+            yssyyhddmdysyyyyyyyyyyyyysso+/////:-----..````````````````````````````````...........```````````````````````````````./o+:-...-:://++++++++osyyyhhhhhhhhhhdddddddddmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMmsoooooooooooooooooooooooooooooooooosssyhdNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy/-....`..-::::-....``.....:syyyyyyyyyyyyysyyysssssssssssssyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyyy:
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmmdysyyyyddddhysyyyyyyyyyyyyysso//////-.---...``````````````````````````````.............````````````````````````````````.:sso/-...--://+++++++oosyhhhhhhhhddddddmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMNmdhyssoooooooooooooooooossssyyhddmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+-...`.``.--::-...`````....-oyyyyyyyyyyyyyssyyyssssssssssssyyyyyyyyyyyy:
+            yyyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em"> smmmmmm
+            yyyyyhdmmdysyyyyyyyyyyyyyyso+//////-.---...``````````````````````````````..............`````````````````````````````````:oyys/-....--://++++++osyhhhdddddddmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMNNNmmmddddddddddddmmmNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmy/...``````.---....```````...-oyyyyyyyyyyyyyyssyyyssssssssssssyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyyy+
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            Nmmmmm+/yyyyydmmmhyyyyyyyyyyyyyyysso+/////:-.--....`````````````````````````````...............``````````````````````````````````.+syyso/-.....-:://++++oosyhddddmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmh+:..```````.........````````.../yyyyyyyyyyyyyyssyysssssssssssssyyyyyyyyyyyy/
+            yyyyyyyyyyyyyyyyyyyyyys
+        </tspan>
+        <tspan x="0" dy="1.2em"> mmmmmmN
+            syyyyhdmmdhyyyyyyyyyyyyyyyso+//////-..--...``````````````````````````````...............```````````````````````````````````.-+shhyyo+:-.....--::///++osyhdmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNmy+:-..````````.....`..```````````.:syyyyyyyyyyyyyssyyyssssssssssssyyyyyyyyyyyyy
+            -yyyyyyyyyyyyyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `mmmmmm:`yyyyyhdmmdyyyyyyyyyyyyyyysso+//////-.---...`````````````````````````````................`````````````````````````````````````.-+syhhhyso/:-.......---::/+oyhdmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNdy+:---..``````````````.````````````.-oyyyyyyyyyyyyyssyyyyssssssssssssyyyyyyyyyyyy+
+            yyyyyyyyyyyyyyyyyyyyyy:
+        </tspan>
+        <tspan x="0" dy="1.2em"> Nmmmmmm
+            yyyyyhdmmmdyyyyyyyyyyyyyyysso+/////:-.---...`````````````````````````````.....-..........```````````````````````````````````````.-/oyhhhhhhyo+/:--.....---::/oyhddmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNmds+::-----..``````````````````````````.-oyyyyyyyyyyyyyysyyyyssssssssssssyyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyyyyyo
+        </tspan>
+        <tspan x="0" dy="1.2em"> hmmmmmm-
+            oyyyyhdmmmhyyyyyyyyyyyyyyyso+//////:-.---...````````````````````````````....-----........``````````````````````````````````````````.:+syhdddddhhyso++//::::://osyyhhdddmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNmho/::-------..```````````````````````````.+yyyyyyyyyyyyyyssyyyssssssssssssyyyyyyyyyyyyy.
+            oyyyyyyyyyyyyyyyyyyyy+
+        </tspan>
+        <tspan x="0" dy="1.2em"> mmmmmmm
+            yyyyhddmmdhyyyyyyyyyyyyyysso+//////:..--.....```````````````````````````..---------......````````````````````````````````````````````.-:+syhdddddddddddhhhyyyhhhddddddmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNmds+/::---------.````````````````````````````./syyyyyyyyyyyyyysyyyssssssssssssyyyyyyyyyyyyy-
+            yyyyyyyyyyyyyyyyyyyy/
+        </tspan>
+        <tspan x="0" dy="1.2em">+ -mmmmmmy
+            -yyyyhdmmmdhyyyyyyyyyyyyyysso+//////-.---.....```````````````````````````..-----------....```````````````````````````````````````````````.-:+syhddddddmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNmdy+/::::----------.````````````````````````````.:syyyyyyyyyyyyyysyyyyssssssssssssyyyyyyyyyyyyo
+            oyyyyyyyyyyyyyyyyyyy-
+        </tspan>
+        <tspan x="0" dy="1.2em">ms mmmmmmm.
+            -yyyyhdmmmdhyyyyyyyyyyyyyyso+///////-.---.....``````````````````````````..-------------...```````````````````````````````````````````````````.-/osydddmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNmdyo/:::--------------.`````````````````````````````-oyyyyyyyyyyyyyysyyyysssssssyyyyyyyyyyyyyyyyyy
+            yyyyyyyyyyyyyyyyyys-
+        </tspan>
+        <tspan x="0" dy="1.2em">mms /mmmmmmm
+            /yyyyhdmmmdhyyyyyyyyyyyyysso+//////:-.---.....``````````````````````````.---------------..```````````````````````````````````````````````````````.:/oyhdddddddddmmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNmdyo/:::----------------..`````````````````````````````.+yyyyyyyyyyyyyyyyyyysysysssysyysyyyyyyyyyyyyy-
+            :yyyyyyyyyyyyyyyyyo
+        </tspan>
+        <tspan x="0" dy="1.2em">mmNo` /mmmmmms
+            /yyyhddmmmdyyyyyyyyyyyyyysso+//////:-.---.....``````````````````````````.---------------..``````````````````````````````````````````````````````````.-:/osyyhhhhdddddmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNmdyo/::-------------------..``````````````````````````````.-syyyyyyyyyyyyyyyyyyyssyssyyyyyyyyyyyyyyyyyyy:
+            `yyyyyyyyyyyyyyyyy-
+        </tspan>
+        <tspan x="0" dy="1.2em">mmmmN` dmmmmmms
+            syyyhddmmmhhyyyyyyyyyyyyysoo///////:-.---.....``````````````````````````.---------------..```````````````````````````````````````````````````````````````.-:/+oossyhhhdddmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdyo/:------------------------.````````````````````````````````.+yyyyyyyyyyyyyyyyyyyyyyysyyyyyyyyyyyyyyyyyyy:
+            yyyyyyyyyyyyyyyy:
+        </tspan>
+        <tspan x="0" dy="1.2em">mmmmmN mmmmmmm
+            yyyyhddmmdhyyyyyyyyyyyyysso+///////:-.---.....`````````````````````````..----------------..````````````````````````````````````````````````````````````````...--://+oosyyhhdmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmhs+-....-----------------------.`````````````````````````````````./yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/
+            /yyyyyyyyyyyyyyyyo
+        </tspan>
+        <tspan x="0" dy="1.2em">mmmmmmN ommmmmmm
+            /yyyhddmmdhyyyyyyyyyyyyysso+///////:-.---.....`````````````````````````..----------------..````````````````````````````````````````````````````````````````........--:::/++osyhddmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmhs+:.`````..---------------------..``````````````````````````````````.:yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/
+            /hyyyyyyyyyyyyyy:
+        </tspan>
+        <tspan x="0" dy="1.2em">mmmmmmNN ommmmmmm+
+            /yyyhddmmdhhyyyyyyyyyyyysso+///////:-.---.....`````````````````````````..----------------..```````````````````````````````````````````````````````````````...............---::/+oosyhhddmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmhs+:-.````````..--------------------..````````````````````````````````````:yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyh
+            syyyyyyyyyyyyyh/
+        </tspan>
+        <tspan x="0" dy="1.2em">mmmmmmmNd smmmmmmm
+            +yyyyhddmddhyyyyyyyyyyyysso+///////:-------...`````````````````````````..----------------..```````````````````````````````````````````````````````````````.....................----:://+oosyhhdddmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdhs+:-.````````````..-------------------..`````````````````````````````````````:syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/`
+            :yyyyyyyyyyyyyy:`
+        </tspan>
+        <tspan x="0" dy="1.2em">mmmmmmmmNd smmmmmmd
+            +yyyyhddmddhyyyyyyyyyyyysso+///////:------....`````````````````````````..----------------..``````````````````````````````````````````````````````````````..........``````..............----::://+oossyyyhhhdddddmmmmmmmmmmmmmmmmmmmNmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdhso/:..````````````````...----------------...`````````````````````````````````````./syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/
+            -syyyyyyyyyyyy/+`
+        </tspan>
+        <tspan x="0" dy="1.2em">mmmmmmmmmmd smmmmmmh/
+            .+yyyhdddddhyyyyyyyyyyyysoo+////////:------...`````````````````````````...---------------..``````````````````````````````````````````````````````````````.............``.`````````..............-----:::://+++oooossssyyyyhhhhhhhhhhhhhhhdddddddddddddmmmmmmmmmmmmddhhyo+:-..`````````````````````........----------..```````````````````````````````````````./yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy-
+            --syyyyyyyyyyy+``
+        </tspan>
+        <tspan x="0" dy="1.2em">mmmmmmmmmmmh .mmmmmmN:
+            +yyyhhddddhyyyyyyyyyyysso+/////////:------...````````````````````````....---------------..`````````````````````````````````````````````````````````````....................................................--------:::::://////////+++++++/:::---::--:::::::::--....```````````````````````````...........-----...````````````````````````````````````````.+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.
+            .oyyyyyyyyyyo+..
+        </tspan>
+        <tspan x="0" dy="1.2em">hmmmmmmmmmmmy -Nmmmmmm-
+            odyyyhddddhyyyyyyyyyyysso+/////////:-------..`````````````````````````....--------------..````````````````````````````````````````````````````````````.............................................................-------........-.-----.```````````````````````````````````````````````````.................``````````````````````````````````````````-+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy+.
+            `.+oyyyyyyyyo+..
+        </tspan>
+        <tspan x="0" dy="1.2em">yhdmmmmmmmmmmy-:hmmmmmmy
+            :syyyhhddddhyyyyyyyyyysso+/////////:-------..````````````````````````.....-----------......``````````````````````````````````````````````````````````....................................................................................``````````````````````````````````````````````````................``````````````````````````````````````````.-oyyyyys+osyyyyyyyyyyyyyyyyyyyyyyyhhyyyyyyo.
+            .+oyyyyhsso..-
+        </tspan>
+        <tspan x="0" dy="1.2em">yyyhmmmmmmmmmmN dmmmmmmy.
+            -syyhhddddhyyyyyyyyyysso+//////////:--:---..````````````````````````......-------.........`````````````````````````````````````````````````````````--.................................................................................``````````````````````````````````````````````````..............````````````````````````````````````````````.:syyyso/:/syyyyyyyyyyyyyhyyyyyyhhhhhhhyyhs-
+            :sds--./
+        </tspan>
+        <tspan x="0" dy="1.2em">yyyyhdmmmmmmmmNs. :hmmmmmm`
+            -hyyhddddhyyyyyyyyyysso+//////////:---:--...````````````````````````.....................````````````````````````````````````````````````````````------.............................................................................````````````````````````````````````````````````.............``````````````````````````````````````````````.+syyo/:--+yyyyyyyyyyyyhhhhhhhhhhhhhhhhhho:
+        </tspan>
+        <tspan x="0" dy="1.2em">yyyyyydmmmmmmmmmM mmmmmmm`
+            +hyyhhdddhyyyyyyyyyssso+///////////:-:::--..````````````````````````.....................```````````````````````````````````````````````````````----------.........................................................................```````````````````````````````````````````````...........```````````````````````````````````````````````.-osso/-..-oyyyyyyyyyyyyhhhhhhhhhhhhhhhyys:
+        </tspan>
+        <tspan x="0" dy="1.2em">yyyyyyyhmmmmmmmmmo +dmmmmmo`
+            -yyyhddddhyyyyyyyyssso+///////////::-::--..`````````````````````````....................`````````````````````````````````````````````````````.:::----------......................................................................``````````````````````````````````````````````.........`````````````````````````````````````````````````.:oo/--...:oyyyyyyyyyyyhhhhhhhhhhhhhhhys:`
+        </tspan>
+        <tspan x="0" dy="1.2em">yyyyyyyyhdmmmmmmmm+ +mmmmmN
+            :hhhddddhyyyyyyyysso+////////////:-::--....```````````````````````....................````````````````````````````````````````````````````.:::::-----------.................................................................-.```````````````````````````````````````````````....````````````````````````````````````````````````````.::--.--..:syyyyyyyyyyyhhhhhhhhhhhhyys:`
+        </tspan>
+        <tspan x="0" dy="1.2em">+syyyyyyyyhmmmmmmmmM hmmmmm+
+            /yhddddhyyyyyyysso+////////////::::::-...```````````````````````....................```````````````````````````````````````````````````.:::::::-----------..........................................................-------````````````````````````````````````````````````````````````````````````````````````````````````````...--....-.-+yyyyyyyyhhhhhhhhhhhhhhdm:/
+        </tspan>
+        <tspan x="0" dy="1.2em">:/syyyyyyyyhdmmmmmNMN +Nmmmmm/
+            /yhddmdyyyyyyysso+/////////////:::::--..```````````````````````....................``````````````````````````````````````````````````.:::::::::-------------------------...................--........--------------:::::-```````````````````````````````````````````````````````````````````````````````````````````````...-.----......:oyyyyyyhhhhhhhhhhhhhhdmmm`
+        </tspan>
+        <tspan x="0" dy="1.2em">-:/oyyyyyyyyhdmmmNMMMN `ommmmmd/
+            `s+ddmmdhyyyyysso+//////////////:::::-..`````````````````````````...````...........`````````````````````````````````````````````````.:::::::::::::----------------------------------------------------------:::::::::::-````````````````````````````````````````````````````````````````````/sso/-```````````````````.--:------.....-/syyyyyhhddhhhhhhhhhddmmNN`
+        </tspan>
+        <tspan x="0" dy="1.2em">---:+syyyyyyyyhdmNMMMMm `yNmmmmdy-
+            `oNmmmdhyyyysso+///////////////::::--.`````````````````````````..```````.........````````````````````````````````````````````````-::::::::::::::::--------------------------------------------------::::::::::::::::-```````````````````````````````````````````````````````````````````smmms-``````````````````..-::--..--....-:+syyyyhdmmdhhhhhhddmmmmmms.
+        </tspan>
+        <tspan x="0" dy="1.2em">.---:+syyyyyyyyhdmMMMMMm/ ..smmmmmy:
+            ..sdmmdhyyysso+////////////////::::--.````````````````````````````````````.````````````````````````````````````````````````````-::::::::::::::::::::----------------------------------------::::::::::::::::::::::-``````````````````````````````````````````````````````````````````ymmy:.``````````````````..--:--..---...-/osyyyyhNNmdhhhddmNNNNNmmmo
+        </tspan>
+        <tspan x="0" dy="1.2em">...--:/oyyyyyyyyydNMMMMMM ..ydmmmhs-
+            ..ymdhhhyyso+////////////////:::::-.````````````````````````````````````````````````````````````````````````.----......````.:::::::::::::::::::::::::::---------------------------:::::::::::::::::::::::::::::/+-/:.``````````````````````````````````````````````````````````
+            -Nh/.``````````````````..--::--..-....-:+osssoohNNddddmmNMMMMNmmNmy
+        </tspan>
+        <tspan x="0" dy="1.2em">....---/osyyyyyyyhmMMMMMMd- .-yNmmmys--
+            -.yyhhhyyo+/////////////////::::-.``````````````````````````````````````````````````````````````````````./syso++////----::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::/hhmmdy+-`````````````````````````````````````````````````````
+            `ds-`````````````````.....-::--...-..--:+o++/:/smNmmNNMMMMMMNNmmmd-
+        </tspan>
+        <tspan x="0" dy="1.2em">......--:+syyyyyyydMMMMMMMM- :-yhmmmmys-.
+            .oyyyyyyso//////////////////:::-.```````````````````.````````````````````````````````````````````````-oyyys/------:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-+hdmmmds/--..````````````````````````````````````````````
+            -:.````````````````..--..--::--.--.---::::---/sdNNNNNMMMMMMNNmNmh.
+        </tspan>
+        <tspan x="0" dy="1.2em">.......--:+syyyyyyhNMMMMMMMM. ::hhmmmdss..`
+            -oyyysso+++/////////////////:::-.`````````````````....```````````````````````````````````````````.:syyyys:--...-:///:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::://:..-:+ymmmmhyo+///:::::---....`````````````````````````
+            ``.````````````````.-/:-..-----......-----..--:ohmmmmmNNNNNNNmmmmh
+        </tspan>
+        <tspan x="0" dy="1.2em">........--:/oyyyyyymMMMMMMMMM.
+            ::yddmmmdos.:yssso+////////////////////:::-.`````````````````.....````````````````````````````````````````-/yyhhyyys:--.-//////////////::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::////////.....-/ydmNNNmmmmmmNNmmdy+:-.`````````````````````
+            ``````````````````..:+o:-..-----.............--:+yddmmmmmmmmmmmmmNm
+        </tspan>
+        <tspan x="0" dy="1.2em">.........---/osyyyydMMMMMMMMMM`
+            +///shmdhdssso+/////////////////////::-..`````````````````.....````````````````````````````````````.:oyhhhhhhhys/:-:+++++++////////////////::::::::::::::::::::::::::::::::::::::::::::::::::://///////////++/........:sdmmmmNNNNNNNNNmds+-...```````````
+            ` ` `````````````````..:+syo:-..----..............--:+yhdmmmmmmmmmmmmmm/
+        </tspan>
+        <tspan x="0" dy="1.2em">..........---:+syyyhNMMMMMMMMMM`
+            :soo+//////////////////////::-.``````````````````.....````````````````````````````````..-+syyhhhhhhhyys+//+oo+++++++++++/////////////////////:::::::::::::::::::::::::::////////////////++++++++++/.........+hhhhhmNNNNNNNNNMMNNmhs+/++`
+            ```````````````..-/+syyyo:-..----...............--/ohdmmmmmmmmmmmmmN+
+        </tspan>
+        <tspan x="0" dy="1.2em">............--:+syyydMMMMMMMMMMM
+            :do+////////////////:/:::::::-.`````````````````......````````..:...```````````````..-/++osyyyhhhhhhyyysoooooooooo++++++++++++///////////////////////////////////////////////++++++++++++++++++o+........-ohhhhhdNNNNNNNNNMMMMMMMNNdy+
+            ````````````...:+shdhyyyyo:-.---::---.............-:/shmmmmmmmmmmmmmmo
+        </tspan>
+        <tspan x="0" dy="1.2em">.............--:/oyyhNMMMMMMMMMMM
+            -+////////////://::::::::::-..```````````````........```````.-+o+:-...`````````..-/ooooossyyyhhhyyyyyyyssssoooooooooooo+++++++++++++++/////////////////////+++++++++++++++++++++ooooooooooooo+-.......:shyyyhdNNNNNNNNNMMMMMMMMMMMMo
+            .`````````.--:+sydmmmmhyyyyo:--:://////::--.........-:/shmmmmmmmmmmmmmh
+        </tspan>
+        <tspan x="0" dy="1.2em">..............--:/oyhNMMMMMMMMMMMN
+            --//////////:::::::::::::::-.````````````````........```````.-oyys+/-..........-:+osyyyyyyyhhyyyyyyyyyyyyysssssoooooooooooooooo++++++++++++++++++++++++++++++++++++ooooooooossssssssssssssso/......./yyyyyyhmNNNNNNNNMMMMMMMMMMMMMNN++
+            ```````````/ydmmmmmmmmmhyyyyo:-:////////////:--......--/shmmmmmmmmmmmmNo
+        </tspan>
+        <tspan x="0" dy="1.2em">................--/yNMMMMMMMMMMMMMN
+            .:/:///::/::::::::::::::::-.```````````````..........`````..:ohhhyo/:::--..--://+osyyyyhhhhhyyyyyyyyyyyyyyyyysssssssoooooooooooooooooooooooooooooooooooooooooossssssssssssssyyyyyyyyyyyyyo......./yhhhhhhmNNNNNNNNNMMMMMMMMMMMMMMMMN//
+            mmmmmmmmmmmhyyyy+::////////////////:-....--/ohdmmmmmmmmmmmNs
+        </tspan>
+        <tspan x="0" dy="1.2em">.................-:+hNMMMMMMMMMMMMMm
+            --::/:::::::::::::::::::--.````````````````.........`````..:syhhyssssoooo++++++oosyyyyhhhhhhyyyyyyhhhyyyyyyyyyyysssssssssssooooooooooooooooooooooossssssssssyyyyyyyyyyyyyyyyyyyyyyyyyhs:....../hhhhhhhmNNNNNNNNNMMMMMMMMMMMMMMMMMMMm//
+            dmmmmmmmmmmdyyyy+////////////////////::-.--:oydmmmmmmmmmmmmy
+        </tspan>
+        <tspan x="0" dy="1.2em">.................--:sdNMMMMMMMMMMMMMm
+            `.-:::::::::::::::::-:---..```````````````...........```...:oyhyyyyyyyyyyysssssssyyyhhhhhhhhhhhyyyhhhhhhhhhhyyyyyyyyyysssssssssssssssssssssssssssssyyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhy:.....+hhhhhhdNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMdd:/
+            Nmmmmmmmmmdyyys+///////////////////////:--:+ydmmmmmmmmmmmN. :h
+        </tspan>
+        <tspan x="0" dy="1.2em">............----.--/osymMMMMMMMMMMMMMd
+            ``..-:::::::::::--------..```````````````................:+syyhhhhhhhhhhhyyyyyyyyyyhhhhhhhddhhhhhhhhhhhhhhhhhhhyyhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhs:---ohhhhhhdNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMdd:
+            hmmmmmmmmmmhys+//////////////////////////::+ydmmmmmmmmmmmy- -:hhNN
+        </tspan>
+        <tspan x="0" dy="1.2em">............:oo+++sdmhssmMMMMMMMMMMMMMd ```-.---:----.`
+            `.-....```````````````..---.......-:://osyyhhhhhhhhhhhhhhhhhhhhhhhhhhddddmmmmmmmmddddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddddddddddddhy+//shhhhhhmNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMhhymmmmmmmmmmhs+//////////////////////////////ohmmmmmmmmmmmh
+            --hymmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">...........-:yysdmNNNNmhydNMMMMMMMMMMMMh ```` ```` ` `
+            -````````````````..-/o+/:-:://////+osyyyhhhhhhhhhhhhhhhhhhhhhhhhhddddmNNNNNNNNNNNNNNNmmmmmmNNNNNmmmdddhhhhhhhhhhhhhhhhhhhhhhdhdddddddddddddddddddddddddddddhhhhhhhhhhmNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMNNNmmmmmmy+/////////////////////////////////ymmmmmmmmmNd
+            --hyNmmmmmmNNN
+        </tspan>
+        <tspan x="0" dy="1.2em">.......--...:yhymNMMNNNNdyhNMMMMMMMMMMMMy
+            ````````````...-+shyyssoo+++++oosyyyhhhhhhhhhhhhhhhhhhhhhhhhhhddmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmddddddddddddddddddddddddddddddddddddddddddddddddddddhhhhhhdNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMNNNmmds///////////////////////////////////+hmmmmmmmmy
+            ..sNNmmmmmNNNNMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">....../ss+//+hmmNMMMMNNNNdsyNMMMMMMMMMMMM.
+            ```````....-/syyhhhyyyyyssssyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhdmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdddddddddddddddddddddddddddddddddddddddddddddhhhhhdmNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMNNy+/////////////////////////////////////+hmmmmmNy
+            ..yssNmmmmmmNNNMMMMMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">.....-sNmhdmNNMMMMMMMMNmdho+smMMMMMMMMMNNNs
+            ``---:+ossyyyhhhhhhhhyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhddmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdddddddddddddddddddddddddddddddddddddhhhhhddNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMNy////////////////////////////////////////odmmmN+
+            ``ssNNmmmmmNNNNMMMMMMMMMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">.....-yNNdmMMMMMMMMMMNh+:---/odMMMMNmddhhhd:
+            /hhyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdddddddddddddddddddddddddddddddddddddmNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMNdo//////////////////////////////////////////smmN+
+            odmmmmmmmNNNNMMMMMMMMMMMMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">.....-yNNdmNMMMMMMMMms:...---:ohNNmyyyyyyyhdo
+            :hyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmddddddddddddddddddddddddddddddmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMNy+////////////////////////////////////////////oys
+            ooNmmmmmmmNNNMMMMMMMMMMMMMMMMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">.....-ommhdmmdmmmmmdy/-....----/+syyyyyyyyyyd/
+            /hyhhyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmddddddddddmddddddmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMNmo/////////////////////////////////////////////////.
+            +NmNNmmmmNNNMMMMMMMMMMMMMMMMMMMMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">......-///++/::::://:-.......----/oyyyyyyyyyyhm
+            dhhyhyyyhyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmdddddmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMNy+//////////////////////////////////////////////////:
+            +/mmmmmmmNNNNMMMMMMMMMMMMMMMMMMMMMMMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">.......---:/-..................---:+syyyyyyyyyh:
+            yhyhyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdhhhhhdmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMms+/////////////////////////////////////////////////////
+            /mmNmmmmNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">..........---....................--:+syyyyyyyyyh:
+            oyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdhyyyyyhhddNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdo///////////////////////////////////////////////////////-
+            /:ddNmmmNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNm
+        </tspan>
+        <tspan x="0" dy="1.2em">..................................--:/syyyyyyyyyyh .`.------``
+            ./+oyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmddhhysssssyyyhhmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNh+/////////////////////////////////////////////////////////.
+            .// ::dNmmmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmhy
+        </tspan>
+        <tspan x="0" dy="1.2em">/-.................................--:/oyyyyyyyyyys
+            -+o/::---:::---```-::/oyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmdhhysoooo+oooosyydmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmy+///////////:::::-------::::::://///////////////////////////
+            --ddddmNNddh: ::yhmmmmNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyy
+        </tspan>
+        <tspan x="0" dy="1.2em">so/-.................................--/oyyyyyyyyyys
+            -syssso+/::----------::::/syyyyhhhhhhyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmddhhyo++/////////+osyhmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmy+///////:::----.....---------:::::///////////////////////////.
+            ..+sshdmNNNNNNNNNNh- --yNmmmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNhy
+        </tspan>
+        <tspan x="0" dy="1.2em">yyso:-................................--:+syyyyyyyyys ...``````
+            +dyyyyyyyso+/::----------:::+syhyhhhhhhhyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddNNNNmdddhhdhhddhhddddddddmmmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNdhhhyo///::::::::::::/+oydmNNNNNNNNNNNNNNNNNNNNNNNNNNmy+/////::---..........----------::::://////////////////////////:..-oohyhhhhdmmNNNNNNNNNNN-
+            -hymmmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd
+        </tspan>
+        <tspan x="0" dy="1.2em">yyyys+:-...............................--:+syyyyyyyyy+ `...++++hhysoo+++--.```
+            `:syyyyyyyyyyys+/::-----------::+syyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddyso++/////////////++++++++++++oosssyyyhddmmmNNNNNNNNNNNNNNNNNNNdhhyo/:::::::::::::::::/+oydmNNNNNNNNNNNNNNNNNNNNNNNms////::--...........--------------:::///////////////////////////+hhyyhhhhhhhddmNNNNNNNNNNMMy
+            ..ssNmmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN
+        </tspan>
+        <tspan x="0" dy="1.2em">yyyyyys/--..............................--:/oyyyyyyyyy+
+            ``o+yhhyyyyyyyyyysoo+///:::.-://osyyyyyyyyyyys+/:-----------:::+syyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyo+////////////////////////////////////////++++oosyyhhdmmmNNNNNNNNdhhs/:::::::::------:::://+oshmNNNNNNNNNNNNNNNNNNNNms///:--..........-------------------::///////////////////////////+yhhhhhhhhhhhdmmNNNNNNNNMMMMyy.
+            `/sNmmmNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">yyyyyyyso:-...............................--/oyyyyyyyyy+`
+            ``++hyyyyhyyyyyyyyyyyyyso++///:::::://+syyhhyyyyyyys+/:------------::+syhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhy+//////////////////////////////////////////////////////++osyyhdmNNdhhs/:::::---:--------:::://++sydNNNNNNNNNNNNNNNNNmy/::--.......-----------------------:://///////////////////////////shhhhhhhhhhhddmNNNNNNNNNMMMMMM`
+            `ssmNmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+        </tspan>
+        <tspan x="0" dy="1.2em">yhyyyyyyys+:-..............................--/oyyyyyyyyys
+            //hyhhyyyyyyyyyyyhhhyyyyyyysoo+////::::://+syyhhyyyyyyso+/:-----------:::+syhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyo///////////////////////////////////////////////////////////////++oooso/:::::-------------:::::///+osyhhyhhddmNNNNNNmy/---......--------------------------://///////////////////////////:/yhhhhhhhhhhhddmNNNNNNNNMMMMMMMo`
+            +oNmmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN
+        </tspan>
+        <tspan x="0" dy="1.2em">hyhhyyyyyyyo/--..............................-:+syyyyyyyyh
+            /yyyhyyyyyyhhhhhhhhhhhhhhhhhhhyyyso+////::::://+syhhhyhyyyyss+/:------------::+syhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhys+////////////////////////////////////////////////////////////////////////::::::-----------::::::////////+++++oshmNNNy:-----------------------------------://////////////////////////////::+hhhhhhhhhhhddmNNNNNNNNNMMMMMMMMo
+            +mmmmmmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdy
+        </tspan>
+        <tspan x="0" dy="1.2em">mdhyhhhyyyyyso:----............................-:oyyyyyyyyy
+            :/hyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyso+///::::://oyyhhhhhyyyyso+::------------::+yyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyo/////////////////////////////////////////////////////////////////////////////::::::--------:::://///////////++++oymd/-----------------------------------:///////////////////////////////::/shhhhhhhhhhhddmNNNNNNNNMMMMMMMMMMo
+            +hmmmmmmmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdysso
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmdhyyhhyyyyys/--...............................-/syyyyyyyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyso+//::::::/+syhhhhhhyyyyso/:-------------:/oyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhy+////////////////////////////////////////////////////////////////////:::::-------------------:::///////////////++++oo/:--------------------------------::///////////////////////////////::::+hhhhhhhhhhhhdmmNNNNNNNMMMMMMMMMMMN+
+            +ymmmmmmmmmmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmhs+/:---
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmdhyhhhyyyyso/--..............................-:+syyyyyhyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyys+///:::::/+syhhhhhhyyyyss+/:-------------:/oyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhs/:////////////////////////////////////////////////////////////::::-----....................----:::::::///////////++++///:----------------------------:://///////////////////////////////:::::shhhhhhhhhhhddmNNNNNNNNMMMMMMMMMMMMN+
+            +/mmmmmmmmmmmmmmmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd:--......
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmmmdhyhhhhyyys+:-...............................-+hddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyo+///:::::+syhhhhhhhyyyyso+::------------::/syhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhs/::://////////////////////////////////////////////////////::---...............................-::::::::///////////++++++/--------------------------::///////////////////////////////////:::::+yhhhhhhhhhhhdmmNNNNNNNNMMMMMMMMMMMMMm
+            /mNmmmmmmmmmmmmmmmmmmNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNMMMMMMMy-.......-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mmmmmmmmmhhyhhhhyyyo/--...........................-+hmmmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhys+////::::/syyhhhhhhhhyyys+/:::-----------::+syyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyo/:::://///////////////////////////////////////////////::---...................................-::::::::////////////+++++/:-----------------------:://///////////////////////////////////:::::/shhhhhhhhhhhddmNNNNNNNNNMMMMMMMMMMMMMdNmmmmmmmmmmmmmmmmmmmmddmMMMMMMMMMMMMMMMMMMMMMMMMNmdhhdNMMMNNmhso//+ymNMMMMNo-..-...--
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            Nmmmmmmmmmmhhyhhhhyyso:--.......................:odNNNNNNmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyo++//////+oyyhhhhhhhhyyyyo//::------------::+syyhhhhhhhhhhhhhhhhhhhhhhhhhhhhyo:::::://///////////////////////////////////////////::--.......................................-::::::::////////////++++++/--------------------::////////////////////////////////////////::::::+yhhhhhhhhhhhdmmNNNNNNNNNMMMMMMMMMMMMMNNmmmmmmmmmmmmmmmmmmmmdddNMMMMMMMMMMMMMMMMNNmdhhyyyyssyyso/::--...-:omMMMNd+--.......
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            --hhNmmmmmmmdhhhhhhyyys+:-...................-/sdNNNNNNNNNNNmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyso++/////+osyhhhhhhhhyyyys+/:::-------------:+syyhhhhhhhhhhhhhhhhhhhhhhhhhhyo:::::::////////////////////////////////////////:::--.......................--------------------:::::::::////////////+++++/:---------------:::////////////////////////////////////////////:::::/yhhhhhhhhhhhddmNNNNNNNNNNMMMMMMMMMMMMMMNNmmmmmmmmmmmmmmmddhyyyhmMMMMMMMMMMNNmdhhyyysso+/::----..........-:ymNmh+-.........
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ::ohhNmmmmmhhhhhhhyyo/--...............-:ymNNNNNNNNNNNNNNNNmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyo++////+++syhhhhhhhyyyyyso+/:::----:-----::::/oyyhhhhhhhhhhhhhhhhhhhhhyyhyo:::::::::///////////////////////////////////:::---...............------------------------------:::::://://///////////+++++:----------::::////////////////////////////////////////////////:::::/shhhhhhhhhhhhdmNNNNNNNNNNNMMMMMMMMMMMMMMMNNmmmmmmmmmmdhhyyyyyyydNMMMMNNmdhhyysso+/::--.............-.--.-:ohhs/-..........
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            ::dhmNmdhhhhhhhyyo:-............-/ymNNNNNNNNNNNNNNNNNNNNmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyso++///+++syhhhhhyyyyyyyyso//:::::::::::::::::/oyyhhhhhhhhhhhhhhhyhyhhhhyo::::::::::////////////////////////////////:::----........---------------------------------------::///////////////////+++++/::::::::::////////////////////////////////////////////////////:::::/ohhhhhhhhhhhhdmmNNNNNNNNNNMMMMMMMMMMMMMMMMNNmmmmmddhyyyyyyyyyyyhdmddhyysso+//:---........................-:::-............
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :/mddmhhhhhhhys+:..........:smNNNNNNNNNNNNNNNNNNNNNNNNNmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhysoo+/+++++syhhhhyyyyyyyyyyso+////::::::::::::-::+syyhhhhhhyyyyyhhhhhhhyyo:::::::::::////////////////////////////::::-----------------------------------------------------::///////////////////+++++////////////////////////////////////////////////////////////////::::/ohhhhhhhhhhhhddmNNNNNNNNNNNMMMMMMMMMMMMMMMMMNmdhhyyyyyyyyyyyyyyyyssoo+/:---................-..............................
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            +/:yyhhhhhyo/-......:smNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyo++++++++syhhhhyyyyyyyyyyyso+////::::::::::::--:/syyhyyyyyhhhhhhhhyyhyo::::::::::::://///////////////////////::::-------------------------------------------------------:///////////////////+++++/////////////::::::////////////////////////////////////////////////:/shhhhhhhhhhhhhdmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMNdyyyyyyyyyyyyssoo+/:---.....................................................
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :/:syyyy+-...-omNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyooo++++++syhhyyyyyyyyyyyyyys++/////:::::/++/:::--:+syyhhhhhhhhhyyhhhhs/::::::::::::://::::////////////////:::::::::::---------------------------------------------------://////////////////+++++///////////:::::::::::://////////////////////////////////////////////yhhhhhhhhhhhhhdmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMNhyyyyysso+/::---..........................................................
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :::o-:odNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhysoo++++++syyyhhyyyyyyyyyyyyys++/////::///+oo+//::-:/oyyhhhhhyyhhhhhhs/:::::::::::::::::::::://///////////:::::::::::----------------------------------------------------://///////////////+++++//////////::::::::::::::::://///////////////////////////////////////+yyhhhhhhhhhhhhddmNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMNdso+/:---.............-.---..............................................
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            MNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhysooo++++osyhhhhhyyyyyyyyyyyyyo++/////////+ssoo+//::::/oyyhyhhhhhhhhy+::::::::::::::::::::::///////////////::::::::::-----------------------------------------------:---::///////////////++++++//////////::::::::::::::::-:::://///////////////////////////////////+oyyhhhhhhhhhhhddmNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMNd:................-.....................................................
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            -+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyoooo+++oyhhhhhhyyyyyyyyyyyyyyo+++///////ossssoo++/::::/oyyhhhhhhhyo:::::::::::::::::::::://///////////////////::::::::::-------------------------------------::::/:::--://////////////+++++////////////:::::::::-----------::://////////////////////////////////+oyhhhhhhhhhhhhddmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMNm+.......-............................................................-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            /NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyysoooooosyhhhhhhyyyyyyyyyyyyyyyso+++////++sssssssoo+//:::/osyyhhhys/:::::::::::::::::::://////////////////////////////////::::::::::----------------:::::::::///////::--:///////////////++++///////////::::::------------------::://///////////////////////////+syhhhhhhhhhhhhhhdmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMNs-.............................................................---:/+
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            mNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyysssssssyhhhhhhhhyyyyyyyyyyyyyyysooo+++++ossyyyysssoo+//:::/+osyyy+:::::::::::::::::::://////////////////////////////////////////////////////////////////////////:/::::::://///////////++oyso+/////////::::-----------------------:::::::///////////////////+syyhhhhhhhhhhhhhhhdmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMNh/.......................................................---::/ossyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            :dNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyysssoosyhhhhhhhyyyyyyyyyyyyyyyyyssooo++++osyyyyyssssoo+//::::/+o+:::::::::::::::::::://///////////////////////////////////////////////////////////////////::::::::::::::::///////////osyhhhyysoo+////:::--------------------------------:::::::////////+osyyhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMNd/..................................................---:/+ossyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            hNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyyssoosyhhhhhhhhyyyyyyyyyyyyyyyyyyyssoo+++osyyyyyyyyssso++/::--::::::::::::::::::::::////////////////////////////////////////////////////////////////::::::::::::::::///++////////+osyhhhhhhhhhyyysso+/:::-------------------------------------::::/+osyyyhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMNmo-...........................................---::/+ossyyyyyyyyyy
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            -hNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmddhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyhhyysoosyhhhhhhhhyyyyyyyyyyyyyyyyyyyyssoo++osyyyyyyyyyyssso++/::-::::::::::::::::::://///////////////////////////////////////////////////////////::::::::::::::::::::/+shyyssssssyyyhhhhhhhhhhhhhhhhhyyysso++//:::------------------------::://++osyyyhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy-.....................................----://+ossyyyyyyyyyyhhhd
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            hNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdhhhhhhhhhhhhhhhhhhhhhhhhhhyyyyhhhyysssyhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyysooossyyyyyyyyyyyyssoo+/::::::::::::::::::://////////////////////////////////////////////////////////::::-----------::::::::/oyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhyyyssooooooooo+o+++++++++oosssyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh:...............................----::/++osyyyyyyyyyyhhddmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            yNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmddhhhhhhhhhhhhhhhhhhhhhhhhyyyyhhhhyyssyhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyysssssyyyyyyyyyyyyyysso++:::::::::::::::::///////////////////////////////////////////////////////:::-----------------:::::/syhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdhhhyyyyyyyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh:........................-----:://+ossyyyyyyyyhhdddmmmmmmmmmm
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            .yNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdhhhhhhhhhhhhhhhhhhhhhhhyyyyhhhhhyysyyhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyysyyyyyyyyyyyyyyyyyysso+::::::::::::::://///////////////////////////////////////////////////::----------------------:::oyhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdddhdddddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd/..................------::/+oosyyyyyyyyhhddmmmmmmmmmmmmmddd
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            `NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmdhhhhhhhhhhhhhhhhhhhhhyyyyhhhhhhyyyyhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyss/::::::::::::://////////////////////////////////////////////////::-------------------------::+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdddhhhhhdmdddddddddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdmNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+............------::/++ossyyyyyyhhddmmmmmmmmNNmmdhm///-
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            +NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmddhhhhhhhhhhhhhhhhhhhyyyyhhhhhhhyyyhhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys/:::::::::::://///////////////////////////////////////////:::----------------------------:+syhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhdddmmmdddhhhddmmddmdmmdddhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddmNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/......------:://+ossyyyyyyhhddmmmmNmmmNNh//++
+        </tspan>
+        <tspan x="0" dy="1.2em">
+            oNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdhhhhhhhhhhhhhhhhhhyyyyyhhhhhhhyyhhhhhhhhhhhyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyo::-:::::::://///////////////////////////////////////:::--------------------------------/syhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddmmmmmmmmmmmddddmmmmmmmmmmmmmdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhddmNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+------:://oosyyyyyyyhddmmNNN++++oo
+        </tspan>
+    </text>
+</svg>

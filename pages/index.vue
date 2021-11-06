@@ -1,28 +1,38 @@
 <template>
-    <v-container>
-        <v-row>
+    <v-container fill-height>
+        <v-row align="center">
             <v-spacer />
             <v-col cols="auto">
-                <v-card>
+                <v-card elevation="24" class="pl-md-10 pr-md-10">
                     <v-card-subtitle class="text--disabled text-center">
-                        — 5/24/19 5:35PM —
+                        — {{ $store.state.time }} —
                     </v-card-subtitle>
                     <v-card-title class="justify-center text-uppercase">
                         First American Financial Corporation
                     </v-card-title>
-                    <v-cart-text class="d-sm-flex justify-center">
+                    <v-card-text class="d-sm-flex justify-center">
                         <v-form>
-                            <v-text-field label="login" solo flat outlined />
                             <v-text-field
-                                label="password"
-                                type="password"
+                                label="login"
+                                v-model="login"
                                 solo
                                 flat
                                 outlined
+                                dense
+                            />
+                            <v-text-field
+                                label="password"
+                                type="password"
+                                v-model="password"
+                                solo
+                                flat
+                                outlined
+                                dense
                             />
                             <v-card-actions>
                                 <v-spacer />
                                 <a
+                                    @click.prevent="letMeIn"
                                     class="
                                         blue--text
                                         text--darken-4 text-decoration-underline
@@ -33,34 +43,7 @@
                                 <v-spacer />
                             </v-card-actions>
                         </v-form>
-                    </v-cart-text>
-                    <v-container fluid>
-                        <v-row>
-                            <v-col cols="5">
-                                <a
-                                    class="
-                                        blue--text
-                                        text--darken-4 text-decoration-underline
-                                    "
-                                >
-                                    Нажимая продолжить, я принимаю условия
-                                    пользовательского соглашения
-                                </a>
-                            </v-col>
-                            <v-spacer />
-                            <v-col cols="5" class="text-right">
-                                <a
-                                    class="
-                                        blue--text
-                                        text--darken-4 text-decoration-underline
-                                    "
-                                >
-                                    Нажимая продолжить, я принимаю условия
-                                    пользовательского соглашения
-                                </a>
-                            </v-col>
-                        </v-row>
-                    </v-container>
+                    </v-card-text>
                 </v-card>
             </v-col>
             <v-spacer />
@@ -70,7 +53,32 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
+import { Socket } from 'socket.io-client';
 
 @Component
-export default class Index extends Vue {}
+export default class Index extends Vue {
+    mounted() {
+        this.socket = this.$nuxtSocket({}) as Socket;
+        this.socket.on('auth-accept', () => {
+            console.log('push');
+            this.$router.push('text');
+        });
+        this.socket.on('update-time', (time: string) => {
+            this.$store.commit('setTime', time);
+        });
+    }
+
+    socket!: Socket;
+
+    login = '';
+    password = '';
+
+    letMeIn() {
+        console.log('click');
+        this.socket.emit('auth-request', {
+            login: this.login,
+            password: this.password,
+        });
+    }
+}
 </script>

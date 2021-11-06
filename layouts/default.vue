@@ -1,12 +1,14 @@
+<style lang="scss" scoped>
+.main-app {
+    background-image: url('@/assets/test.svg') !important;
+    background-size: cover !important;
+    background-position: center center !important;
+}
+</style>
+
 <template>
-    <v-app>
-        <v-container fluid>
-            <v-row>
-                <v-col>
-                    <nuxt />
-                </v-col>
-            </v-row>
-        </v-container>
+    <v-app class="main-app">
+        <nuxt />
     </v-app>
 </template>
 
