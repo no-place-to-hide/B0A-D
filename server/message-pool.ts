@@ -19,7 +19,7 @@ export const getNewMessage = (user: User) => {
 export const getAllMessages = () => {
     const filterMessages = messages
         .sort((lhs, rhs) =>
-            lhs.isEditing && rhs.isEditing
+            lhs.isEditing || rhs.isEditing
                 ? 0
                 : lhs.date.getTime() - rhs.date.getTime()
         )
