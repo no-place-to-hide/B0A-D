@@ -93,7 +93,8 @@ export default {
                     mutations: [
                         {
                             'update-message-list': 'setChatMessages',
-                            'update-time': 'setTime'
+                            'update-time': 'setTime',
+                            'auth-accept': 'setToken',
                         },
                     ],
                 },

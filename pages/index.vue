@@ -59,10 +59,11 @@ import { Socket } from 'socket.io-client';
 export default class Index extends Vue {
     mounted() {
         this.socket = this.$nuxtSocket({}) as Socket;
-        this.socket.on('auth-accept', () => {
-            console.log('push');
-            this.$router.push('text');
+        this.socket.on('auth-accept', (token: string) => {
+            this.$store.commit('setToken', token);
+            this.$router.push('chat');
         });
+
         this.socket.on('update-time', (time: string) => {
             this.$store.commit('setTime', time);
         });

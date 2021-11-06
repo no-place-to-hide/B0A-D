@@ -1,7 +1,11 @@
 import { ServerMiddleware } from '@nuxt/types';
 import { Server } from 'socket.io';
-import seedrandom from 'seedrandom';
 import moment from 'moment';
+import { getUser } from './user-pool';
+import { generate as passwordGenerator } from 'generate-password';
+import { getAllMessages, getNewMessage } from './message-pool';
+import ChatMessage from '~/types/chat-message';
+import User from '~/types/user';
 
 const io = new Server(3001, {
     cors: {
@@ -9,115 +13,68 @@ const io = new Server(3001, {
     },
 });
 
-const chatMessages: { [id: string]: ChatMessage[] } = {};
-const newMessage = (id: string) => {
-    if (!(id in chatMessages)) {
-        chatMessages[id] = [];
-    }
-
-    if (chatMessages[id].length != 0) {
-        chatMessages[id] = chatMessages[id].map((msg) => ({
-            message: msg.message,
-            date: msg.date,
-            color: msg.color,
-            isEditing: false,
-        }));
-    }
-
-    const msg: ChatMessage = {
-        message: '',
-        date: new Date(),
-        isEditing: true,
-        color: bg_color(id),
-    };
-
-    chatMessages[id] = [...chatMessages[id], msg];
-
-    return msg;
-};
-
-const getLast = (id: string) => {
-    if (id in chatMessages) {
-        const messages = chatMessages[id].filter((msg) => msg.isEditing);
-        if (messages.length == 0) {
-            return newMessage(id);
-        }
-
-        return messages[messages.length - 1];
-    }
-
-    return newMessage(id);
-};
-
-const messageList = () => {
-    const messages = Object.values(chatMessages)
-        .flat()
-        .sort((lhs, rhs) => lhs.date.getTime() - rhs.date.getTime())
-        .filter((msg) => msg.message);
-
-    return [
-        ...messages.filter((msg) => !msg.isEditing),
-        ...messages.filter((msg) => msg.isEditing),
-    ];
-};
-
-const bg_color = (id: string) => {
-    const seed = seedrandom(id);
-
-    const treshHold = (256 * 3) / 2;
-
-    const x = Math.floor(seed.quick() * 256);
-    const y = Math.floor(seed.quick() * Math.min(treshHold - x, 256));
-    const z = Math.floor(seed.quick() * Math.min(treshHold - x - y, 256));
-
-    const [r, g, b] = [x, y, z]
-        .map((val) => ({ val, seed: seed.quick() }))
-        .sort((a, b) => a.seed - b.seed)
-        .map(({ val }) => val);
-
-    const bgColor = `rgb(${256 - r}, ${256 - g}, ${256 - b})`;
-
-    return bgColor;
-};
-
 io.on('connection', (socket) => {
     const id = socket.id;
+    let user: User | null = null;
+    let msg: ChatMessage | null = null;
 
-    socket.on('auth-request', (data: { login: string; password: string }) => {
-        if (data.login == 'no_place_to_hide' && data.password == 'what_am_i')
-            socket.emit('auth-accept');
-    });
+    socket.on(
+        'auth-request',
+        (data: { login?: string; password?: string; token?: string }) => {
+            user = getUser({
+                username: data.login,
+                password: data.password,
+                token: data.token,
+            });
 
-    /*
+            if (user != null) {
+                const token = passwordGenerator({
+                    length: 32,
+                    lowercase: true,
+                    numbers: true,
+                });
+                user.tokens.push(token);
+                socket.emit('auth-accept', token);
+            }
+        }
+    );
+
     socket.on('get-messages', () => {
-        io.emit('update-message-list', messageList());
+        io.emit('update-message-list', getAllMessages());
     });
 
-    socket.on('edit-message', (message) => {
-        const msg = getLast(id);
+    socket.on('edit-message', (message: string) => {
+        if (!user) return;
+        if (!msg) msg = getNewMessage(user);
+
         msg.message = message;
-
-        io.emit('update-message-list', messageList());
-    });
-
-    socket.on('save', (message) => {
-        const msg = getLast(id);
-        msg.message = message ?? '';
-        msg.isEditing = false;
         msg.date = new Date();
 
-        io.emit('update-message-list', messageList());
+        io.emit('update-message-list', getAllMessages());
+    });
+
+    socket.on('save', (message: string) => {
+        if (!user) return;
+        if (!msg) return;
+
+        msg.message = message;
+        msg.date = new Date();
+        msg.isEditing = false;
+
+        msg = null;
+
+        io.emit('update-message-list', getAllMessages());
     });
 
     socket.on('disconnect', () => {
-        const msg = getLast(id);
-        msg.message = msg.message ?? '';
+        if (!user) return;
+        if (!msg) return;
+
         msg.isEditing = false;
         msg.date = new Date();
 
-        io.emit('update-message-list', messageList());
+        io.emit('update-message-list', getAllMessages());
     });
-    */
 });
 
 const timeout = (ms: number) =>

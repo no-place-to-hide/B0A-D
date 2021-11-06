@@ -1,4 +1,4 @@
-interface ChatMessage {
+export default interface ChatMessage {
     date: Date;
     message: string;
     isEditing: boolean;
