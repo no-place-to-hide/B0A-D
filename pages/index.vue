@@ -1,57 +1,76 @@
 <template>
-    <client-only>
-        <div class="container">
-            <div
-                class="row"
-                v-for="(msg, idx) in messageList"
-                :key="idx"
-                :style="{ color: msg.color }"
-            >
-                <div class="col">
-                    {{ msg.message }}
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <textarea
-                        :value="text"
-                        @input="text = $event.target.value"
-                        @submit.prevent="save"
-                        style="width: 100%"
-                    />
-                    <button @click="save">Send</button>
-                </div>
-            </div>
-        </div>
-    </client-only>
+    <v-container>
+        <v-row>
+            <v-spacer />
+            <v-col cols="auto">
+                <v-card>
+                    <v-card-subtitle class="text--disabled text-center">
+                        — 5/24/19 5:35PM —
+                    </v-card-subtitle>
+                    <v-card-title class="justify-center text-uppercase">
+                        First American Financial Corporation
+                    </v-card-title>
+                    <v-cart-text class="d-sm-flex justify-center">
+                        <v-form>
+                            <v-text-field label="login" solo flat outlined />
+                            <v-text-field
+                                label="password"
+                                type="password"
+                                solo
+                                flat
+                                outlined
+                            />
+                            <v-card-actions>
+                                <v-spacer />
+                                <a
+                                    class="
+                                        blue--text
+                                        text--darken-4 text-decoration-underline
+                                    "
+                                >
+                                    Let Me In
+                                </a>
+                                <v-spacer />
+                            </v-card-actions>
+                        </v-form>
+                    </v-cart-text>
+                    <v-container fluid>
+                        <v-row>
+                            <v-col cols="5">
+                                <a
+                                    class="
+                                        blue--text
+                                        text--darken-4 text-decoration-underline
+                                    "
+                                >
+                                    Нажимая продолжить, я принимаю условия
+                                    пользовательского соглашения
+                                </a>
+                            </v-col>
+                            <v-spacer />
+                            <v-col cols="5" class="text-right">
+                                <a
+                                    class="
+                                        blue--text
+                                        text--darken-4 text-decoration-underline
+                                    "
+                                >
+                                    Нажимая продолжить, я принимаю условия
+                                    пользовательского соглашения
+                                </a>
+                            </v-col>
+                        </v-row>
+                    </v-container>
+                </v-card>
+            </v-col>
+            <v-spacer />
+        </v-row>
+    </v-container>
 </template>
 
 <script lang="ts">
-import { Socket } from 'socket.io-client';
-import { Component, Vue, Watch } from 'vue-property-decorator';
+import { Component, Vue } from 'vue-property-decorator';
 
 @Component
-export default class Index extends Vue {
-    mounted() {
-        this.socket = this.$nuxtSocket({}) as Socket;
-        this.socket.emit('get-messages');
-    }
-
-    socket!: Socket;
-    text = '';
-
-    save() {
-        this.socket.emit('save', this.text);
-        this.text = '';
-    }
-
-    get messageList() {
-        return this.$store.state.chatMessages;
-    }
-
-    @Watch('text')
-    watchText() {
-        this.socket.emit('edit-message', this.text);
-    }
-}
+export default class Index extends Vue {}
 </script>

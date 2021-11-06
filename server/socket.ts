@@ -74,7 +74,7 @@ const bg_color = (id: string) => {
         .sort((a, b) => a.seed - b.seed)
         .map(({ val }) => val);
 
-    const bgColor = `rgb(${r}, ${g}, ${b})`;
+    const bgColor = `rgb(${256 - r}, ${256 - g}, ${256 - b})`;
 
     return bgColor;
 };

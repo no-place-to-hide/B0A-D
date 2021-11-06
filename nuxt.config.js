@@ -1,9 +1,12 @@
 /** @type {import('nuxt-socket-io').NuxtSocketIoOptions} */
 /** @type {import('vue-class-component/hooks')} */
+/** @type {import('@nuxtjs/vuetify')} */
 
 const ioUrl = `http://${process.env.BASE_URL}:3001`;
 
 export default {
+    //ssr: false,
+
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
         title: 'board',
@@ -23,7 +26,7 @@ export default {
     },
 
     // Global CSS: https://go.nuxtjs.dev/config-css
-    css: ['bootstrap/dist/css/bootstrap-grid.css'],
+    css: [],
 
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
     plugins: ['@/plugins/persistedstate.client.ts'],
@@ -41,12 +44,32 @@ export default {
     // Modules: https://go.nuxtjs.dev/config-modules
     modules: [
         // https://go.nuxtjs.dev/axios
+        '@nuxtjs/vuetify',
         '@nuxtjs/axios',
         'nuxt-socket-io',
     ],
 
     // Axios module configuration: https://go.nuxtjs.dev/config-axios
     axios: {},
+
+    vuetify: {
+        customVariables: ['~/assets/variables.scss'],
+        treeShake: true,
+        theme: {
+            options: { customProperties: true },
+            themes: {
+                light: {
+                    primary: '#646464',
+                    secondary: '#424242',
+                    accent: '#ABABAB',
+                    info: '#7D7D7D',
+                    warning: '#FFC107',
+                    error: '#858585',
+                    success: '#868686',
+                },
+            },
+        },
+    },
 
     router: {
         mode: 'abstract',
